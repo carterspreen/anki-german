@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+лу́нный	"lunar"	4401	https://en.openrussian.org/ru/%D0%BB%D1%83%D0%BD%D0%BD%D1%8B%D0%B9
+сде́рживать	"hold in"	4402	https://en.openrussian.org/ru/%D1%81%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+толка́ть	"push"	4403	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BB%D0%BA%D0%B0%D1%82%D1%8C
+бассе́йн	"pool, swimming pool"	4404	https://en.openrussian.org/ru/%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD
+пребыва́ть	"to be (at some place), to be (in some state)"	4405	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+по́просту	"simply"	4406	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%83
+уде́рживать	"retain"	4407	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+поря́дочный	"upstanding/orderly"	4408	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9
+уво́лить	"fire"	4409	https://en.openrussian.org/ru/%D1%83%D0%B2%D0%BE%D0%BB%D0%B8%D1%82%D1%8C
+пе́чень	"liver"	4410	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8C
+мосто́вый	"(relational) bridge"	4411	https://en.openrussian.org/ru/%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9
+пода́ться	"to move (under pressure), to yield, to make for"	4412	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+непривы́чный	"unused"	4413	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BD%D1%8B%D0%B9
+защи́тник	"defender"	4414	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA
+обеспе́чение	"provision, support"	4415	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+потерпе́ть	"suffer, have patience"	4416	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D0%BF%D0%B5%D1%82%D1%8C
+заслу́га	"merit, credit"	4417	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D0%BB%D1%83%D0%B3%D0%B0
+отвраще́ние	"aversion"	4418	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5
+прислу́шаться	"listen"	4419	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%83%D1%88%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+суде́бный	"judicial"	4420	https://en.openrussian.org/ru/%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9
+строи́тель	"builder"	4421	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+ось	"axle / axis, (computer slang) operating system"	4422	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%8C
+уста́ло	"tiredly"	4423	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE
+приобрета́ть	"acquire, buy"	4424	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B0%D1%82%D1%8C
+стон	"moan"	4425	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BD
+пёстрый	"gaudy"	4426	https://en.openrussian.org/ru/%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9
+земля́нка	"dug-out"	4427	https://en.openrussian.org/ru/%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0
+спохвати́ться	"to remember suddenly"	4428	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+идеа́льный	"ideal"	4429	https://en.openrussian.org/ru/%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+хиру́рг	"surgeon"	4430	https://en.openrussian.org/ru/%D1%85%D0%B8%D1%80%D1%83%D1%80%D0%B3
+равноду́шный	"indifferent"	4431	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9
+сексуа́льный	"sexual"	4432	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+устано́вленный	"established"	4433	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+пригоди́ться	"prove useful"	4434	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+моло́денький	"young"	4435	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9
+те́сно	"tightly"	4436	https://en.openrussian.org/ru/%D1%82%D0%B5%D1%81%D0%BD%D0%BE
+рельс	"rail"	4437	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%BB%D1%8C%D1%81
+изуче́ние	"study"	4438	https://en.openrussian.org/ru/%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+призы́в	"call (for), call-up (conscription)"	4439	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2
+вспы́хивать	"blaze up"	4440	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BF%D1%8B%D1%85%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+объедини́ть	"unite"	4441	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C
+быт	"life"	4442	https://en.openrussian.org/ru/%D0%B1%D1%8B%D1%82
+рожда́ться	"be born"	4443	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B6%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+отдалённый	"remote"	4444	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9
+сорт	"sort, grade"	4445	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%80%D1%82
+пласти́нка	"record"	4446	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%B0
+брю́хо	"belly"	4447	https://en.openrussian.org/ru/%D0%B1%D1%80%D1%8E%D1%85%D0%BE
+впра́вду	"really"	4448	https://en.openrussian.org/ru/%D0%B2%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D1%83
+стоя́нка	"parking"	4449	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0
+правле́ние	"governing"	4450	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+па́даль	"carrion, vile person, windfall"	4451	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%B4%D0%B0%D0%BB%D1%8C
+испу́г	"fright"	4452	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BF%D1%83%D0%B3
+увели́чить	"increase, zoom"	4453	https://en.openrussian.org/ru/%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D1%82%D1%8C
+брита́нский	"British"	4454	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9
+бу́дка	"kennel"	4455	https://en.openrussian.org/ru/%D0%B1%D1%83%D0%B4%D0%BA%D0%B0
+постановле́ние	"resolution"	4456	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+Рим	"Rome"	4457	https://en.openrussian.org/ru/%D0%A0%D0%B8%D0%BC
+опуска́ть	"lower"	4458	https://en.openrussian.org/ru/%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%82%D1%8C
+издалёка	"from far away"	4459	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BB%D1%91%D0%BA%D0%B0
+жиле́ц	"occupant"	4460	https://en.openrussian.org/ru/%D0%B6%D0%B8%D0%BB%D0%B5%D1%86
+обсужде́ние	"discussion"	4461	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+до́рого	"expensive (adverb), dear"	4462	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE
+заря́	"daybreak, name of the functional cargo block on the International Space Station, lovage (plant)"	4463	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%80%D1%8F
+разрабо́тка	"Development, cultivation"	4464	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0
+отправля́ть	"send"	4465	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C
+ка́сса	"checkout, ticket window, cash, bank, cash register, case (polygraphy)"	4466	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%81%D1%81%D0%B0
+уступи́ть	"to concede"	4467	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C
+впрямь	"really"	4468	https://en.openrussian.org/ru/%D0%B2%D0%BF%D1%80%D1%8F%D0%BC%D1%8C
+кипе́ть	"boil"	4469	https://en.openrussian.org/ru/%D0%BA%D0%B8%D0%BF%D0%B5%D1%82%D1%8C
+ца́рство	"kingdom, realm"	4470	https://en.openrussian.org/ru/%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE
+поплы́ть	"start swimming, Sail"	4471	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D0%BB%D1%8B%D1%82%D1%8C
+ворва́ться	"to storm into"	4472	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+ничу́ть	"not a bit"	4473	https://en.openrussian.org/ru/%D0%BD%D0%B8%D1%87%D1%83%D1%82%D1%8C
+создава́ться	"be created"	4474	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+табле́тка	"tablet"	4475	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B0
+и́зложить	"set forth"	4476	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C
+сейф	"safe"	4477	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B9%D1%84
+нагру́зка	"loading"	4478	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0
+горожа́нин	"townsman"	4479	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%BE%D0%B6%D0%B0%D0%BD%D0%B8%D0%BD
+го́речь	"bitterness, bitter taste"	4480	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%B5%D1%87%D1%8C
+ри́мский	"Roman"	4481	https://en.openrussian.org/ru/%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9
+пейза́ж	"view"	4482	https://en.openrussian.org/ru/%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6
+посети́ть	"visit, attend"	4483	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D1%8C
+студе́нческий	"student"	4484	https://en.openrussian.org/ru/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+почётный	"honourable"	4485	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B9
+шу́мно	"noisily"	4486	https://en.openrussian.org/ru/%D1%88%D1%83%D0%BC%D0%BD%D0%BE
+секрета́рша	"secretary"	4487	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%88%D0%B0
+толчо́к	"push, restroom"	4488	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BB%D1%87%D0%BE%D0%BA
+замёрзнуть	"freeze"	4489	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D1%91%D1%80%D0%B7%D0%BD%D1%83%D1%82%D1%8C
+визг	"squeal"	4490	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%B7%D0%B3
+прохла́дный	"cool"	4491	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%85%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9
+а́томный	"atomic"	4492	https://en.openrussian.org/ru/%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9
+суще́ственный	"essential"	4493	https://en.openrussian.org/ru/%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+дыми́ться	"smoke"	4494	https://en.openrussian.org/ru/%D0%B4%D1%8B%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+соедине́ние	"joining"	4495	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+заявля́ть	"declare"	4496	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D1%8F%D1%82%D1%8C
+млрд	"billion"	4497	https://en.openrussian.org/ru/%D0%BC%D0%BB%D1%80%D0%B4
+различа́ть	"distinguish"	4498	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B0%D1%82%D1%8C
+внима́тельный	"attentive"	4499	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+се́мя	"seed"	4500	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BC%D1%8F

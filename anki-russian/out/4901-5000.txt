@@ -1,0 +1,101 @@
+#separator:Tab
+#tags column:16
+негр	"black (person), ghostwriter (colloquial)"	4901	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B3%D1%80
+разыска́ть	"look"	4902	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D1%82%D1%8C
+по́черк	"handwriting"	4903	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%87%D0%B5%D1%80%D0%BA
+колле́кция	"collection"	4904	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F
+моли́тва	"prayer"	4905	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0
+ритм	"rhythm"	4906	https://en.openrussian.org/ru/%D1%80%D0%B8%D1%82%D0%BC
+ста́я	"flock, flock of birds"	4907	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%8F
+блин	"pancake, damn"	4908	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B8%D0%BD
+расстава́ться	"part"	4909	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+вне́шне	"outwardly"	4910	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5
+ишь	"(colloquial) see! / (just) look"	4911	https://en.openrussian.org/ru/%D0%B8%D1%88%D1%8C
+загна́ть	"to corner"	4912	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B3%D0%BD%D0%B0%D1%82%D1%8C
+А́зия	"Asia"	4913	https://en.openrussian.org/ru/%D0%90%D0%B7%D0%B8%D1%8F
+пересе́чь	"to cross"	4914	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D1%87%D1%8C
+подру́жка	"girlfriend"	4915	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%BA%D0%B0
+изра́ильский	"Israeli"	4916	https://en.openrussian.org/ru/%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9
+сро́чный	"urgent"	4917	https://en.openrussian.org/ru/%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9
+пиани́стка	"pianist"	4918	https://en.openrussian.org/ru/%D0%BF%D0%B8%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%BA%D0%B0
+разво́д	"divorce"	4919	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4
+кру́то	"super cool"	4920	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%83%D1%82%D0%BE
+ограни́ченный	"limited"	4921	https://en.openrussian.org/ru/%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+смути́ться	"be confused"	4922	https://en.openrussian.org/ru/%D1%81%D0%BC%D1%83%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+реализа́ция	"realization, Implementing"	4923	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+про́бка	"traffic"	4924	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B1%D0%BA%D0%B0
+ми́ска	"bowl"	4925	https://en.openrussian.org/ru/%D0%BC%D0%B8%D1%81%D0%BA%D0%B0
+пан	"pan (sir)"	4926	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BD
+раздави́ть	"crush"	4927	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B4%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+юриди́ческий	"juridical"	4928	https://en.openrussian.org/ru/%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+пенсионе́р	"pensioner"	4929	https://en.openrussian.org/ru/%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80
+подводно́й	"underwater"	4930	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9
+утверди́ть	"affirm"	4931	https://en.openrussian.org/ru/%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+шо́рох	"rustle"	4932	https://en.openrussian.org/ru/%D1%88%D0%BE%D1%80%D0%BE%D1%85
+горшо́к	"pot"	4933	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D1%88%D0%BE%D0%BA
+незначи́тельный	"insignificant"	4934	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+невероя́тно	"it is incredible"	4935	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE
+ма́тушка	"mother / mum (parent), mother (term of address)"	4936	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0
+верху́шка	"top"	4937	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%80%D1%85%D1%83%D1%88%D0%BA%D0%B0
+национа́льность	"nationality"	4938	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+тигр	"tiger"	4939	https://en.openrussian.org/ru/%D1%82%D0%B8%D0%B3%D1%80
+скла́дка	"fold"	4940	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0
+незави́симо	"independently"	4941	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE
+вполго́лоса	"in an undertone"	4942	https://en.openrussian.org/ru/%D0%B2%D0%BF%D0%BE%D0%BB%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%B0
+ико́на	"icon"	4943	https://en.openrussian.org/ru/%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0
+зака́нчиваться	"come to an end close"	4944	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+артиллери́йский	"Adjective of артиллерия"	4945	https://en.openrussian.org/ru/%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9
+распростране́ние	"spreading"	4946	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+учёба	"study"	4947	https://en.openrussian.org/ru/%D1%83%D1%87%D1%91%D0%B1%D0%B0
+укра́сить	"decorate"	4948	https://en.openrussian.org/ru/%D1%83%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D1%82%D1%8C
+котёнок	"kitten"	4949	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA
+спортсме́н	"sportsman"	4950	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD
+добыва́ть	"to get, to extract, to bag (hunt)"	4951	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+серебро́	"silver"	4952	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE
+осма́тривать	"examine"	4953	https://en.openrussian.org/ru/%D0%BE%D1%81%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+контроли́ровать	"control"	4954	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+полотно́	"canvas"	4955	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%BE
+пре́лесть	"charm"	4956	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%BB%D0%B5%D1%81%D1%82%D1%8C
+всеми́рный	"world's"	4957	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9
+вски́нуть	"to raise up (e.g. eyes, arms)"	4958	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8C
+помча́ться	"dart"	4959	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D1%87%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+прете́нзия	"claim, complaint, pretension"	4960	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F
+сраже́ние	"battle"	4961	https://en.openrussian.org/ru/%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+шевели́ть	"stir"	4962	https://en.openrussian.org/ru/%D1%88%D0%B5%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D1%8C
+конфе́та	"sweet"	4963	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%82%D0%B0
+растеря́ть	"lose"	4964	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C
+рыво́к	"jerk"	4965	https://en.openrussian.org/ru/%D1%80%D1%8B%D0%B2%D0%BE%D0%BA
+опроки́нуть	"to knock over"	4966	https://en.openrussian.org/ru/%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8C
+икра́	"caviar"	4967	https://en.openrussian.org/ru/%D0%B8%D0%BA%D1%80%D0%B0
+погрузи́ть	"to submerge, to load"	4969	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C
+по́тный	"sweaty"	4970	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D0%BD%D1%8B%D0%B9
+дрянь	"rubbish"	4971	https://en.openrussian.org/ru/%D0%B4%D1%80%D1%8F%D0%BD%D1%8C
+возврати́ться	"return"	4972	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+категори́чески	"categorically"	4973	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8
+недово́льно	"unhappy"	4974	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE
+адмира́л	"admiral"	4975	https://en.openrussian.org/ru/%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB
+взорва́ться	"burst"	4976	https://en.openrussian.org/ru/%D0%B2%D0%B7%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+обхвати́ть	"wrap"	4977	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+распространя́ться	"spread, to apply"	4978	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+лёгкость	"lightness, ease /  easiness"	4979	https://en.openrussian.org/ru/%D0%BB%D1%91%D0%B3%D0%BA%D0%BE%D1%81%D1%82%D1%8C
+сочу́вствие	"sympathy"	4980	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+скоти́на	"brute"	4981	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%BE%D1%82%D0%B8%D0%BD%D0%B0
+вскри́кнуть	"cry out"	4982	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BA%D1%80%D0%B8%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+возглавля́ть	"to lead"	4983	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C
+окру́га	"neighbourhood"	4984	https://en.openrussian.org/ru/%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0
+табуре́тка	"stool"	4985	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%B1%D1%83%D1%80%D0%B5%D1%82%D0%BA%D0%B0
+Финля́ндия	"Finland"	4986	https://en.openrussian.org/ru/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+показа́тель	"index, rate, indicators"	4987	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+овца́	"sheep"	4988	https://en.openrussian.org/ru/%D0%BE%D0%B2%D1%86%D0%B0
+бессмы́сленно	"senselessly"	4989	https://en.openrussian.org/ru/%D0%B1%D0%B5%D1%81%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE
+отки́нуться	"to lean back, to get out, to set aside"	4990	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+дружи́ть	"be friends"	4991	https://en.openrussian.org/ru/%D0%B4%D1%80%D1%83%D0%B6%D0%B8%D1%82%D1%8C
+акце́нт	"accent"	4992	https://en.openrussian.org/ru/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82
+вражде́бный	"hostile"	4993	https://en.openrussian.org/ru/%D0%B2%D1%80%D0%B0%D0%B6%D0%B4%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9
+заме́тка	"paragraph, note, review"	4994	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0
+ро́бко	"shyly"	4995	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B1%D0%BA%D0%BE
+отрыва́ть	"tear off"	4996	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+ту́мбочка	"bedside-table"	4997	https://en.openrussian.org/ru/%D1%82%D1%83%D0%BC%D0%B1%D0%BE%D1%87%D0%BA%D0%B0
+перебива́ть	"interrupt"	4998	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B1%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+конце́пция	"concept"	4999	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F
+увели́чиваться	"increase"	5000	https://en.openrussian.org/ru/%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F

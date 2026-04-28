@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+револю́ция	"revolution"	801	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F
+до́лгий	"long"	802	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BB%D0%B3%D0%B8%D0%B9
+улы́бка	"smile"	803	https://en.openrussian.org/ru/%D1%83%D0%BB%D1%8B%D0%B1%D0%BA%D0%B0
+рост	"growth (in a living organism), growth (in quantity, prices, etc), height"	804	https://en.openrussian.org/ru/%D1%80%D0%BE%D1%81%D1%82
+ло́шадь	"horse"	805	https://en.openrussian.org/ru/%D0%BB%D0%BE%D1%88%D0%B0%D0%B4%D1%8C
+ти́хий	"quiet, peaceful, Pacific"	806	https://en.openrussian.org/ru/%D1%82%D0%B8%D1%85%D0%B8%D0%B9
+глубо́кий	"deep"	807	https://en.openrussian.org/ru/%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B8%D0%B9
+дава́й	"let's"	808	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%B2%D0%B0%D0%B9
+ле́вый	"left"	809	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%B2%D1%8B%D0%B9
+ко́жа	"skin"	810	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%B6%D0%B0
+при́шлый	"Alien, Foreign"	811	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D1%8B%D0%B9
+звезда́	"star, famous person, name of service module on the International Space Station"	812	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0
+по́езд	"train"	813	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4
+протяну́ть	"to hand"	814	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%82%D1%8F%D0%BD%D1%83%D1%82%D1%8C
+служи́ть	"serve"	815	https://en.openrussian.org/ru/%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D1%8C
+сестра́	"sister, nurse"	816	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B0
+пожа́луйста	"please, you are welcome, here you go"	817	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0
+уе́хать	"leave"	818	https://en.openrussian.org/ru/%D1%83%D0%B5%D1%85%D0%B0%D1%82%D1%8C
+пове́рить	"to believe"	819	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C
+ба́ба	"woman"	820	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%B1%D0%B0
+не́чего	"nothing"	821	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE
+цвето́к	"flower"	822	https://en.openrussian.org/ru/%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA
+дождь	"rain"	823	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B6%D0%B4%D1%8C
+жела́ние	"desire, wish"	824	https://en.openrussian.org/ru/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D0%B5
+боле́знь	"illness"	825	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C
+вызыва́ть	"cause, trigger, summon"	826	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+называ́ться	"to be called, to identify oneself"	827	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+встре́тить	"meet"	828	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%82%D1%8C
+сосе́д	"neighbour"	829	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D0%B5%D0%B4
+приме́р	"example"	830	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80
+разгова́ривать	"speak"	831	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+позво́лить	"allow, afford"	832	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B8%D1%82%D1%8C
+обнару́жить	"discover"	833	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B8%D1%82%D1%8C
+да́ма	"lady"	834	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%BC%D0%B0
+поверну́ться	"turn"	835	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+о́рган	"organ"	836	https://en.openrussian.org/ru/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD
+орга́н	"organ (instrument)"	837	https://en.openrussian.org/ru/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD
+по́ле	"field"	838	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%B5
+я́щик	"box, drawer"	839	https://en.openrussian.org/ru/%D1%8F%D1%89%D0%B8%D0%BA
+цена́	"price"	840	https://en.openrussian.org/ru/%D1%86%D0%B5%D0%BD%D0%B0
+подходи́ть	"fit, approach"	841	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+горя́чий	"hot, hot-tempered"	842	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9
+ми́лый	"cute"	843	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BB%D1%8B%D0%B9
+сла́бый	"weak"	844	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B0%D0%B1%D1%8B%D0%B9
+ах	"Ah! Oh!"	845	https://en.openrussian.org/ru/%D0%B0%D1%85
+ка́рта	"card, map"	846	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%80%D1%82%D0%B0
+сла́ва	"glory"	847	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B0%D0%B2%D0%B0
+ра́дость	"gladness"	848	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C
+зато́	"for it, but (for all that)"	849	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%82%D0%BE
+тень	"shade, shadow / silhouette (ghost, phantom), hint (vestige)"	850	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BD%D1%8C
+висе́ть	"hang"	851	https://en.openrussian.org/ru/%D0%B2%D0%B8%D1%81%D0%B5%D1%82%D1%8C
+опера́ция	"operation, surgery"	852	https://en.openrussian.org/ru/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F
+вы́глядеть	"to look (like), to look"	853	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B3%D0%BB%D1%8F%D0%B4%D0%B5%D1%82%D1%8C
+де́йствовать	"act"	854	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+нести́	"to carry, to lay eggs, to talk"	855	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+му́зыка	"music"	856	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0
+голубо́й	"light blue, idealised"	857	https://en.openrussian.org/ru/%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9
+горе́ть	"to be burning, to be lit"	858	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C
+заво́д	"factory, winding mechanism"	859	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4
+доба́вить	"add"	860	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+ле́то	"summer"	861	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%82%D0%BE
+весьма́	"quite"	862	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D1%8C%D0%BC%D0%B0
+сади́ться	"come down"	863	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+и́бо	"for, because"	864	https://en.openrussian.org/ru/%D0%B8%D0%B1%D0%BE
+ме́лкий	"small, shallow, petty"	865	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%BB%D0%BA%D0%B8%D0%B9
+помога́ть	"help"	866	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%82%D1%8C
+люби́мый	"favorite"	867	https://en.openrussian.org/ru/%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9
+ста́нция	"station, plant"	868	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+по́вод	"cause, reason"	869	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4
+во́ля	"will, power, freedom"	870	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BB%D1%8F
+литерату́ра	"literature"	871	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0
+де́тский	"childish, baby"	872	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9
+пра́вильно	"right, correctly, properly"	873	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE
+дура́к	"fool"	874	https://en.openrussian.org/ru/%D0%B4%D1%83%D1%80%D0%B0%D0%BA
+прика́з	"order, (historical) board"	875	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7
+граждани́н	"citizen"	876	https://en.openrussian.org/ru/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD
+интере́сно	"it is interesting, interested in"	877	https://en.openrussian.org/ru/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE
+счастли́вый	"happy"	878	https://en.openrussian.org/ru/%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9
+кры́ша	"roof"	879	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%8B%D1%88%D0%B0
+цвет	"color"	880	https://en.openrussian.org/ru/%D1%86%D0%B2%D0%B5%D1%82
+весёлый	"merry, fun"	881	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D1%91%D0%BB%D1%8B%D0%B9
+повтори́ть	"repeat"	882	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D1%8C
+невозмо́жно	"it is impossible"	883	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE
+статья́	"article"	884	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F
+круг	"circle"	885	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%83%D0%B3
+столь	"so"	886	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BB%D1%8C
+факт	"fact"	887	https://en.openrussian.org/ru/%D1%84%D0%B0%D0%BA%D1%82
+бок	"side (flank)"	888	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BA
+относи́ться	"relate, belong to, is treated st/ sb"	889	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+причём	"Moreover"	890	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%87%D1%91%D0%BC
+учи́ться	"to study"	891	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+стул	"chair, stool"	892	https://en.openrussian.org/ru/%D1%81%D1%82%D1%83%D0%BB
+удиви́ться	"to be surprised"	893	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+сре́дний	"middle, neuter"	894	https://en.openrussian.org/ru/%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9
+совреме́нный	"modern"	895	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+ла́герь	"camp"	896	https://en.openrussian.org/ru/%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C
+во́йско	"army"	897	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%BE
+неда́вно	"recently"	898	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE
+удово́льствие	"pleasure"	899	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+вино́	"wine"	900	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%BD%D0%BE

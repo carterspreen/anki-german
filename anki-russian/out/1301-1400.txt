@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+да́льний	"distant"	1301	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9
+тяну́ть	"pull, drag out, be attracted to, lay (a cable), draw up, drawl, make someone go, weigh"	1302	https://en.openrussian.org/ru/%D1%82%D1%8F%D0%BD%D1%83%D1%82%D1%8C
+мгнове́ние	"instant"	1303	https://en.openrussian.org/ru/%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5
+восто́к	"east"	1304	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA
+обрати́ть	"pay, direct"	1305	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+отпусти́ть	"let go"	1306	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C
+бе́гать	"run"	1307	https://en.openrussian.org/ru/%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C
+настрое́ние	"mood"	1308	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5
+означа́ть	"mean, signify, stand for"	1309	https://en.openrussian.org/ru/%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C
+составля́ть	"in total, amount to, make"	1310	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C
+реа́льный	"real"	1311	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+ничего́	"nothing, never mind, not badly"	1312	https://en.openrussian.org/ru/%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE
+па́уза	"pause"	1313	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%83%D0%B7%D0%B0
+приём	"reception, welcome, taking, admission, technique, move, appointment"	1314	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%91%D0%BC
+поро́г	"threshold, doorstep"	1315	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%80%D0%BE%D0%B3
+фон	"background"	1316	https://en.openrussian.org/ru/%D1%84%D0%BE%D0%BD
+национа́льный	"national"	1317	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+вы́держать	"to hold out"	1318	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C
+я́сный	"clear"	1319	https://en.openrussian.org/ru/%D1%8F%D1%81%D0%BD%D1%8B%D0%B9
+ве́село	"funny, happily"	1320	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D0%B5%D0%BB%D0%BE
+пропа́сть	"go missing, disappear"	1321	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C
+ры́жий	"red, ginger"	1322	https://en.openrussian.org/ru/%D1%80%D1%8B%D0%B6%D0%B8%D0%B9
+постоя́нно	"constantly"	1323	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE
+песо́к	"sand"	1324	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%81%D0%BE%D0%BA
+долг	"debt, duty"	1325	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BB%D0%B3
+насто́лько	"so"	1326	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE
+пья́ный	"drunk"	1327	https://en.openrussian.org/ru/%D0%BF%D1%8C%D1%8F%D0%BD%D1%8B%D0%B9
+поступи́ть	"enter, do"	1328	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C
+предложе́ние	"proposal, offer, sentence"	1329	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+вне́шний	"outward"	1330	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9
+рабо́тник	"worker"	1331	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA
+прове́рить	"check"	1332	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C
+отпра́вить	"send"	1333	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+прекра́сно	"excellently"	1334	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE
+наступи́ть	"to step on, to arrive (in time), to attack"	1335	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C
+объясня́ть	"explain"	1336	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D1%8F%D1%82%D1%8C
+сожале́ние	"regret, unfortunately"	1337	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B6%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+пожа́ть	"press / squeeze, shake (hands) / shrug (shoulders)"	1338	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B6%D0%B0%D1%82%D1%8C
+све́рху	"from above"	1339	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83
+торча́ть	"protrude, be stuck"	1340	https://en.openrussian.org/ru/%D1%82%D0%BE%D1%80%D1%87%D0%B0%D1%82%D1%8C
+оставля́ть	"leave, abandon, drop"	1341	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C
+го́рло	"throat"	1342	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%BB%D0%BE
+навстре́чу	"towards"	1343	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D1%83
+рестора́н	"restaurant"	1344	https://en.openrussian.org/ru/%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD
+спи́сок	"list"	1345	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
+за́дний	"back"	1346	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B4%D0%BD%D0%B8%D0%B9
+пра́здник	"holiday"	1347	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA
+го́споди	"lord"	1348	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8
+поко́й	"rest, Slavonic name of the letter п"	1349	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9
+шу́тка	"joke"	1350	https://en.openrussian.org/ru/%D1%88%D1%83%D1%82%D0%BA%D0%B0
+авто́бус	"bus"	1351	https://en.openrussian.org/ru/%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81
+ле́тний	"summer"	1352	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9
+вариа́нт	"version (revision, edition of a work), idea (personal take on a concept), option, variant"	1353	https://en.openrussian.org/ru/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82
+занима́ть	"to occupy, take up, borrow"	1354	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C
+дыха́ние	"breathing"	1355	https://en.openrussian.org/ru/%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5
+призна́ться	"confess"	1356	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+органи́зм	"organism, Body"	1357	https://en.openrussian.org/ru/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC
+дрожа́ть	"shiver"	1358	https://en.openrussian.org/ru/%D0%B4%D1%80%D0%BE%D0%B6%D0%B0%D1%82%D1%8C
+пойма́ть	"catch"	1359	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B9%D0%BC%D0%B0%D1%82%D1%8C
+опа́сный	"dangerous"	1360	https://en.openrussian.org/ru/%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9
+же́ртва	"sacrifice"	1361	https://en.openrussian.org/ru/%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%B0
+да́лее	"further"	1362	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5
+нача́льство	"command"	1363	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE
+ка́менный	"lifeless, stone"	1364	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+рука́в	"sleeve"	1365	https://en.openrussian.org/ru/%D1%80%D1%83%D0%BA%D0%B0%D0%B2
+заня́тие	"occupation, class"	1366	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5
+се́верный	"north"	1367	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9
+призна́ть	"admit, to recognize"	1368	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%82%D1%8C
+охра́на	"guarding"	1369	https://en.openrussian.org/ru/%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0
+бе́дный	"poor"	1370	https://en.openrussian.org/ru/%D0%B1%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9
+постоя́нный	"constant"	1371	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9
+ма́сло	"butter / oil, oil painting"	1372	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE
+су́нуть	"to slip"	1373	https://en.openrussian.org/ru/%D1%81%D1%83%D0%BD%D1%83%D1%82%D1%8C
+захоте́ть	"want"	1374	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C
+кость	"bone"	1375	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%81%D1%82%D1%8C
+междунаро́дный	"international"	1376	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+воскли́кнуть	"exclaim"	1377	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D0%BA%D0%BB%D0%B8%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+пи́во	"beer"	1378	https://en.openrussian.org/ru/%D0%BF%D0%B8%D0%B2%D0%BE
+полтора́	"one and a half"	1379	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B0
+при́нятый	"accepted, customary"	1380	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D1%8B%D0%B9
+вскочи́ть	"jump"	1381	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BA%D0%BE%D1%87%D0%B8%D1%82%D1%8C
+центра́льный	"central"	1382	https://en.openrussian.org/ru/%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+чино́вник	"official"	1383	https://en.openrussian.org/ru/%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA
+э́хо	"echo"	1384	https://en.openrussian.org/ru/%D1%8D%D1%85%D0%BE
+внизу́	"below"	1385	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B8%D0%B7%D1%83
+здра́вствовать	"be well"	1386	https://en.openrussian.org/ru/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+потоло́к	"ceiling"	1387	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D0%BA
+лёгкое	"lung"	1388	https://en.openrussian.org/ru/%D0%BB%D1%91%D0%B3%D0%BA%D0%BE%D0%B5
+руково́дство	"guide, leadership"	1389	https://en.openrussian.org/ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE
+защи́та	"defence"	1390	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0
+разреши́ть	"allow, resolve"	1391	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B8%D1%82%D1%8C
+ва́жно	"it is important"	1392	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE
+эне́ргия	"energy"	1393	https://en.openrussian.org/ru/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+звоно́к	"(phone) call, bell"	1394	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA
+постро́ить	"build, to line up"	1395	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C
+сигаре́та	"cigarette"	1396	https://en.openrussian.org/ru/%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82%D0%B0
+закры́тый	"closed"	1397	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9
+пусти́ть	"let, set in motion, shoot, turn on, let go"	1398	https://en.openrussian.org/ru/%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C
+тепло́	"warm"	1399	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE
+ко́шка	"cat"	1400	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%88%D0%BA%D0%B0

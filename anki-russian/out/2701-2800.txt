@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+кома́ндовать	"give orders"	2701	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+внутрь	"inside"	2702	https://en.openrussian.org/ru/%D0%B2%D0%BD%D1%83%D1%82%D1%80%D1%8C
+ду́ра	"foolish woman"	2703	https://en.openrussian.org/ru/%D0%B4%D1%83%D1%80%D0%B0
+вздро́гнуть	"to shudder"	2704	https://en.openrussian.org/ru/%D0%B2%D0%B7%D0%B4%D1%80%D0%BE%D0%B3%D0%BD%D1%83%D1%82%D1%8C
+краса́вица	"beauty"	2705	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0
+запере́ть	"lock"	2706	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D0%B5%D1%80%D0%B5%D1%82%D1%8C
+разбира́ться	"manage"	2707	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+обману́ть	"deceive"	2708	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD%D1%83%D1%82%D1%8C
+кры́шка	"lid"	2709	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%8B%D1%88%D0%BA%D0%B0
+владе́ть	"own, know / speak (referring to language), be able to use, wield"	2710	https://en.openrussian.org/ru/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5%D1%82%D1%8C
+уда́ча	"good luck"	2711	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B0%D1%87%D0%B0
+сара́й	"shed"	2712	https://en.openrussian.org/ru/%D1%81%D0%B0%D1%80%D0%B0%D0%B9
+конто́ра	"office"	2713	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%BE%D1%80%D0%B0
+отре́зать	"cut off"	2714	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%B0%D1%82%D1%8C
+отреза́ть	"cut off"	2715	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%B0%D1%82%D1%8C
+скаме́йка	"bench, Long seat with a back"	2716	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%B0%D0%BC%D0%B5%D0%B9%D0%BA%D0%B0
+роди́ть	"give birth"	2717	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+ру́хнуть	"crash down"	2718	https://en.openrussian.org/ru/%D1%80%D1%83%D1%85%D0%BD%D1%83%D1%82%D1%8C
+одино́чество	"loneliness"	2719	https://en.openrussian.org/ru/%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+дья́вол	"devil"	2720	https://en.openrussian.org/ru/%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB
+рассве́т	"dawn"	2721	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82
+акаде́мик	"academician"	2722	https://en.openrussian.org/ru/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA
+недалеко́	"not far"	2723	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE
+сплошно́й	"continuous"	2724	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BB%D0%BE%D1%88%D0%BD%D0%BE%D0%B9
+обме́н	"exchange"	2725	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD
+ка́ша	"kasha"	2726	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%88%D0%B0
+провожа́ть	"to escort, see off, say goodbye"	2727	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B0%D1%82%D1%8C
+спи́чка	"match (for lighting fires), matchstick, match stick"	2728	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B0
+спо́ра	"spore"	2729	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%80%D0%B0
+Коре́я	"Korea"	2730	https://en.openrussian.org/ru/%D0%9A%D0%BE%D1%80%D0%B5%D1%8F
+перево́д	"translation, transference"	2731	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4
+кафе́	"café"	2732	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%84%D0%B5
+осмотре́ть	"examine / explore"	2733	https://en.openrussian.org/ru/%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C
+конча́ться	"end"	2734	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+усну́ть	"to fall asleep"	2735	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BD%D1%83%D1%82%D1%8C
+режиссёр	"producer, director"	2736	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80
+воскресе́нье	"Sunday"	2737	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5
+отчёт	"report"	2738	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%87%D1%91%D1%82
+огляде́ть	"examine"	2739	https://en.openrussian.org/ru/%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D0%B5%D1%82%D1%8C
+блеск	"shine, radiance"	2740	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B5%D1%81%D0%BA
+культу́рный	"cultural"	2741	https://en.openrussian.org/ru/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9
+прове́рка	"check-up"	2742	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0
+негро́мко	"quietly"	2743	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B3%D1%80%D0%BE%D0%BC%D0%BA%D0%BE
+восьмо́й	"eighth"	2744	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%BE%D0%B9
+са́хар	"sugar"	2745	https://en.openrussian.org/ru/%D1%81%D0%B0%D1%85%D0%B0%D1%80
+пря́таться	"hide"	2746	https://en.openrussian.org/ru/%D0%BF%D1%80%D1%8F%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+лопа́та	"spade"	2747	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B0
+ра́нить	"injure (hurt)"	2748	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C
+наде́л	"plot of arable land"	2749	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B4%D0%B5%D0%BB
+пита́ние	"nourishment, food, power"	2750	https://en.openrussian.org/ru/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5
+прокуро́р	"public prosecutor"	2751	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80
+неторопли́вый	"leisurely"	2752	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9
+экипа́ж	"carriage"	2753	https://en.openrussian.org/ru/%D1%8D%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6
+лифт	"lift"	2754	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%84%D1%82
+посторо́нний	"strange, outsider"	2755	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9
+такси́	"taxi"	2756	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BA%D1%81%D0%B8
+накану́не	"the day before"	2757	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BA%D0%B0%D0%BD%D1%83%D0%BD%D0%B5
+трус	"coward"	2758	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D1%81
+трудово́й	"working"	2759	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9
+открыва́ться	"open"	2760	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+чрезвыча́йно	"extraordinarily"	2761	https://en.openrussian.org/ru/%D1%87%D1%80%D0%B5%D0%B7%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D0%BE
+иностра́нец	"foreigner"	2762	https://en.openrussian.org/ru/%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D1%86
+научи́ть	"teach"	2763	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%83%D1%87%D0%B8%D1%82%D1%8C
+ле́нта	"ribbon"	2764	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0
+подчеркну́ть	"underline"	2765	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%87%D0%B5%D1%80%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+успоко́ить	"calm, calm down"	2766	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BF%D0%BE%D0%BA%D0%BE%D0%B8%D1%82%D1%8C
+косми́ческий	"cosmic"	2767	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+цех	"section (of a factory), guild"	2768	https://en.openrussian.org/ru/%D1%86%D0%B5%D1%85
+балко́н	"balcony"	2769	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD
+мо́да	"fashion"	2770	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B4%D0%B0
+ступе́нька	"step"	2771	https://en.openrussian.org/ru/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0
+вы́ставка	"exhibition"	2772	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0
+оконча́ние	"termination"	2773	https://en.openrussian.org/ru/%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B5
+лома́ть	"break"	2774	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D1%8C
+за́муж	"marry"	2775	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D1%83%D0%B6
+сро́чно	"urgently, quickly"	2776	https://en.openrussian.org/ru/%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE
+сбро́сить	"to throw off, to shed, to reduce, to reset"	2777	https://en.openrussian.org/ru/%D1%81%D0%B1%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+всео́бщий	"in general, universal"	2778	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%B5%D0%BE%D0%B1%D1%89%D0%B8%D0%B9
+суп	"soup"	2779	https://en.openrussian.org/ru/%D1%81%D1%83%D0%BF
+се́но	"hay"	2780	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BD%D0%BE
+акт	"act"	2781	https://en.openrussian.org/ru/%D0%B0%D0%BA%D1%82
+указа́ние	"indication"	2782	https://en.openrussian.org/ru/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5
+перенести́	"carry across, reschedule, to bear"	2783	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+че́тверо	"four"	2784	https://en.openrussian.org/ru/%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%BE
+пря́тать	"hide"	2785	https://en.openrussian.org/ru/%D0%BF%D1%80%D1%8F%D1%82%D0%B0%D1%82%D1%8C
+мо́лния	"lightning, zipper, express-telegram, news-flash"	2786	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F
+разверну́ть	"unroll"	2787	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C
+засы́пать	"fill up"	2788	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D1%8B%D0%BF%D0%B0%D1%82%D1%8C
+засыпа́ть	"fall asleep, fill up"	2789	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D1%8B%D0%BF%D0%B0%D1%82%D1%8C
+нажа́ть	"press"	2790	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B6%D0%B0%D1%82%D1%8C
+социалисти́ческий	"socialist"	2791	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+глото́к	"drink, mouthful"	2792	https://en.openrussian.org/ru/%D0%B3%D0%BB%D0%BE%D1%82%D0%BE%D0%BA
+по́за	"pose"	2793	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B7%D0%B0
+поми́мо	"besides, in addition to"	2794	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D0%B8%D0%BC%D0%BE
+пустота́	"emptiness"	2795	https://en.openrussian.org/ru/%D0%BF%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0
+реа́льность	"reality"	2796	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+музыка́нт	"musician"	2797	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+сла́вный	"glorious"	2798	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9
+сложи́ть	"fold, stack, add"	2799	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C
+свида́ние	"meeting"	2800	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5

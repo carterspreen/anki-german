@@ -1,0 +1,101 @@
+#separator:Tab
+#tags column:16
+ресни́ца	"eyelash"	4001	https://en.openrussian.org/ru/%D1%80%D0%B5%D1%81%D0%BD%D0%B8%D1%86%D0%B0
+изумле́ние	"amazement"	4002	https://en.openrussian.org/ru/%D0%B8%D0%B7%D1%83%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+по́лно	"fully, brim-full"	4003	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE
+при́стально	"carefully"	4004	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE
+крути́ть	"twist"	4005	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%82%D1%8C
+башка́	"noggin"	4006	https://en.openrussian.org/ru/%D0%B1%D0%B0%D1%88%D0%BA%D0%B0
+свяще́нник	"priest"	4007	https://en.openrussian.org/ru/%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA
+серде́чный	"heart"	4008	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%80%D0%B4%D0%B5%D1%87%D0%BD%D1%8B%D0%B9
+переспроси́ть	"to ask again"	4009	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+подтвержда́ть	"confirm"	4010	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B0%D1%82%D1%8C
+побе́г	"escape, sprout"	4011	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3
+приве́тствовать	"greet"	4012	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+опира́ться	"lean"	4013	https://en.openrussian.org/ru/%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+дуб	"oak"	4014	https://en.openrussian.org/ru/%D0%B4%D1%83%D0%B1
+бу́рный	"stormy"	4015	https://en.openrussian.org/ru/%D0%B1%D1%83%D1%80%D0%BD%D1%8B%D0%B9
+сжима́ть	"squeeze"	4016	https://en.openrussian.org/ru/%D1%81%D0%B6%D0%B8%D0%BC%D0%B0%D1%82%D1%8C
+протяже́ние	"span"	4017	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+подмигну́ть	"wink"	4018	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BC%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D1%8C
+шту́рман	"navigator"	4019	https://en.openrussian.org/ru/%D1%88%D1%82%D1%83%D1%80%D0%BC%D0%B0%D0%BD
+по́хороны	"burial"	4020	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D1%8B
+плева́ть	"spit, don’t care"	4021	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D1%8C
+нало́говый	"tax"	4022	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9
+ха́та	"hut (home - slang)"	4023	https://en.openrussian.org/ru/%D1%85%D0%B0%D1%82%D0%B0
+мра́чно	"grim"	4024	https://en.openrussian.org/ru/%D0%BC%D1%80%D0%B0%D1%87%D0%BD%D0%BE
+сбо́ку	"from one side"	4025	https://en.openrussian.org/ru/%D1%81%D0%B1%D0%BE%D0%BA%D1%83
+нема́лый	"sizable"	4026	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9
+занести́	"drop in"	4027	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+кро́хотный	"tiny"	4029	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D1%8B%D0%B9
+фило́соф	"philosopher"	4030	https://en.openrussian.org/ru/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84
+со́нный	"sleepy"	4031	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9
+забо́титься	"look after"	4032	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B1%D0%BE%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+двадца́тый	"twentieth"	4033	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8B%D0%B9
+шепну́ть	"whisper"	4034	https://en.openrussian.org/ru/%D1%88%D0%B5%D0%BF%D0%BD%D1%83%D1%82%D1%8C
+невозмо́жный	"impossible"	4035	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9
+уцеле́ть	"be left whole"	4036	https://en.openrussian.org/ru/%D1%83%D1%86%D0%B5%D0%BB%D0%B5%D1%82%D1%8C
+помере́ть	"die"	4037	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D0%B5%D1%80%D0%B5%D1%82%D1%8C
+та́ять	"melt"	4038	https://en.openrussian.org/ru/%D1%82%D0%B0%D1%8F%D1%82%D1%8C
+поди́	"I should not wonder, go! leave!"	4039	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B8
+расположе́ние	"location, layout"	4040	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+разрабо́тать	"to develop"	4041	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C
+мо́дный	"fashionable"	4042	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+отбро́сить	"to cast off"	4043	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B1%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+швырну́ть	"fling"	4044	https://en.openrussian.org/ru/%D1%88%D0%B2%D1%8B%D1%80%D0%BD%D1%83%D1%82%D1%8C
+приро́дный	"natural"	4045	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+ребяти́шки	"children"	4046	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B1%D1%8F%D1%82%D0%B8%D1%88%D0%BA%D0%B8
+пле́нный	"captive"	4047	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+эпизо́д	"episode"	4048	https://en.openrussian.org/ru/%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4
+официа́льно	"officially"	4049	https://en.openrussian.org/ru/%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE
+упусти́ть	"to miss (a chance)"	4050	https://en.openrussian.org/ru/%D1%83%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C
+прижима́ть	"press"	4051	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B6%D0%B8%D0%BC%D0%B0%D1%82%D1%8C
+зна́мя	"banner"	4052	https://en.openrussian.org/ru/%D0%B7%D0%BD%D0%B0%D0%BC%D1%8F
+расста́вить	"arrange"	4053	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+яд	"poison"	4054	https://en.openrussian.org/ru/%D1%8F%D0%B4
+сук	"bough"	4055	https://en.openrussian.org/ru/%D1%81%D1%83%D0%BA
+су́хо	"it is dry"	4056	https://en.openrussian.org/ru/%D1%81%D1%83%D1%85%D0%BE
+поло́ска	"strip, band"	4057	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D0%B0
+зарубе́жный	"foreign"	4058	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9
+сохраня́ть	"keep"	4059	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D1%8C
+обма́н	"deception"	4060	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD
+стона́ть	"moan"	4061	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BD%D0%B0%D1%82%D1%8C
+вооруже́ние	"arming"	4062	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+капу́ста	"cabbage"	4063	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0
+бере́чь	"to guard, to care"	4064	https://en.openrussian.org/ru/%D0%B1%D0%B5%D1%80%D0%B5%D1%87%D1%8C
+звене́ть	"ring"	4065	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%B5%D0%BD%D0%B5%D1%82%D1%8C
+аппети́т	"appetite"	4066	https://en.openrussian.org/ru/%D0%B0%D0%BF%D0%BF%D0%B5%D1%82%D0%B8%D1%82
+нуль	"nought"	4067	https://en.openrussian.org/ru/%D0%BD%D1%83%D0%BB%D1%8C
+группиро́вка	"grouping, constellation"	4068	https://en.openrussian.org/ru/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0
+проигра́ть	"to lose"	4069	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B3%D1%80%D0%B0%D1%82%D1%8C
+партиза́н	"partisan"	4070	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD
+дуть	"blow"	4071	https://en.openrussian.org/ru/%D0%B4%D1%83%D1%82%D1%8C
+зака́т	"setting, sunset"	4072	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%B0%D1%82
+тропи́нка	"path"	4073	https://en.openrussian.org/ru/%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%BD%D0%BA%D0%B0
+вести́сь	"to be carried out, to be in progress, to give in"	4074	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%81%D1%8C
+реве́ть	"to whine, to scream, to roar"	4075	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D1%8C
+справедли́вый	"fair"	4076	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9
+самостоя́тельный	"independent"	4077	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+де́ться	"happen to, disappear to"	4078	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%82%D1%8C%D1%81%D1%8F
+чепуха́	"nonsense"	4079	https://en.openrussian.org/ru/%D1%87%D0%B5%D0%BF%D1%83%D1%85%D0%B0
+исто́рик	"historian"	4080	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA
+хозя́йственный	"economic (relating to the economy), household, thrifty, practical (streetsmart)"	4081	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+удовлетворе́ние	"satisfaction"	4082	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%BE%D0%B2%D0%BB%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5
+презри́тельный	"contemptuous"	4083	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B7%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+разнообра́зный	"various"	4084	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9
+дерьмо́	"shit, shithead"	4085	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D1%8C%D0%BC%D0%BE
+специа́льность	"speciality, major"	4086	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+каблу́к	"heel"	4087	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%B1%D0%BB%D1%83%D0%BA
+япо́нец	"Japanese"	4088	https://en.openrussian.org/ru/%D1%8F%D0%BF%D0%BE%D0%BD%D0%B5%D1%86
+фрукт	"fruit"	4089	https://en.openrussian.org/ru/%D1%84%D1%80%D1%83%D0%BA%D1%82
+че́ртовый	"devilish"	4090	https://en.openrussian.org/ru/%D1%87%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B9
+равноду́шно	"with indifference"	4091	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D0%B4%D1%83%D1%88%D0%BD%D0%BE
+инициати́ва	"initiative"	4092	https://en.openrussian.org/ru/%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%B0
+опуска́ться	"fall, omitt"	4093	https://en.openrussian.org/ru/%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+бу́ркнуть	"to mumble"	4094	https://en.openrussian.org/ru/%D0%B1%D1%83%D1%80%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+забира́ть	"take away"	4095	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C
+го́рько	"bitterly"	4096	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE
+сцена́рий	"script, scenario"	4097	https://en.openrussian.org/ru/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9
+целико́м	"whole"	4098	https://en.openrussian.org/ru/%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC
+ми́лость	"mercy"	4099	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D1%8C
+вселе́нная	"universe"	4100	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F

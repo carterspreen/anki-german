@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+подоко́нник	"windowsill"	3101	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA
+непра́вильный	"irregular"	3102	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+подъём	"lifting, upsurge, instep"	3103	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC
+авиа́ция	"aviation"	3104	https://en.openrussian.org/ru/%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F
+и́зредка	"now and then"	3105	https://en.openrussian.org/ru/%D0%B8%D0%B7%D1%80%D0%B5%D0%B4%D0%BA%D0%B0
+вы́пасть	"fall from"	3106	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%BF%D0%B0%D1%81%D1%82%D1%8C
+призна́ние	"acknowledgement, confession"	3107	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5
+конча́ть	"finish, ejaculate"	3108	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D1%8C
+сове́товать	"advise"	3109	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+вы́рвать	"tear out, vomit"	3110	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%80%D0%B2%D0%B0%D1%82%D1%8C
+солда́тский	"soldier's"	3111	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9
+альбо́м	"album"	3112	https://en.openrussian.org/ru/%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC
+гуде́ть	"buzz"	3113	https://en.openrussian.org/ru/%D0%B3%D1%83%D0%B4%D0%B5%D1%82%D1%8C
+уста́лый	"tired"	3114	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8B%D0%B9
+сжечь	"to burn"	3115	https://en.openrussian.org/ru/%D1%81%D0%B6%D0%B5%D1%87%D1%8C
+блю́до	"cuisine"	3116	https://en.openrussian.org/ru/%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE
+благодари́ть	"thank"	3117	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C
+включа́я	"including"	3118	https://en.openrussian.org/ru/%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%8F
+ме́бель	"furniture"	3119	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C
+ра́нее	"before"	3120	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%BD%D0%B5%D0%B5
+нару́шить	"break"	3121	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%80%D1%83%D1%88%D0%B8%D1%82%D1%8C
+апре́ль	"April"	3122	https://en.openrussian.org/ru/%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C
+толкну́ть	"push"	3123	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+прили́чный	"decent"	3124	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9
+кремль	"kreml / kremlin (a fortified central complex), the Kremlin (Moscow)"	3125	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C
+старичо́к	"little old man"	3126	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D0%B8%D1%87%D0%BE%D0%BA
+те́сный	"tight"	3127	https://en.openrussian.org/ru/%D1%82%D0%B5%D1%81%D0%BD%D1%8B%D0%B9
+ай	"ouch, English letter "I" or "i" or name "Ai""	3128	https://en.openrussian.org/ru/%D0%B0%D0%B9
+спа́льня	"bedroom"	3129	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F
+уче́бный	"educational"	3130	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9
+стремле́ние	"aspiration, urge / desire"	3131	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+облегче́ние	"relief"	3132	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BB%D0%B5%D0%B3%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+пропада́ть	"get lost, disappear"	3133	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+пропа́дать	"be missing"	3134	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+вста́вить	"to insert, to paste"	3135	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+бара́к	"barrack"	3136	https://en.openrussian.org/ru/%D0%B1%D0%B0%D1%80%D0%B0%D0%BA
+заслужи́ть	"deserve"	3137	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D1%8C
+целова́ть	"kiss"	3138	https://en.openrussian.org/ru/%D1%86%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+глу́по	"foolishly"	3139	https://en.openrussian.org/ru/%D0%B3%D0%BB%D1%83%D0%BF%D0%BE
+сок	"juice"	3140	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BA
+подозре́ние	"suspicion"	3141	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5
+гру́стный	"sad"	3142	https://en.openrussian.org/ru/%D0%B3%D1%80%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B9
+пообеща́ть	"promise"	3143	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D1%82%D1%8C
+наклони́ться	"lean, bend over"	3144	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+де́ятель	"figure"	3145	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C
+соверша́ть	"accomplish"	3146	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D1%82%D1%8C
+полюби́ть	"come to love"	3147	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C
+отходи́ть	"leave"	3148	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+руче́й	"stream"	3149	https://en.openrussian.org/ru/%D1%80%D1%83%D1%87%D0%B5%D0%B9
+отсу́тствовать	"be absent"	3150	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+небо́сь	"I suppose, don`t worry..."	3151	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B1%D0%BE%D1%81%D1%8C
+нужда́ться	"to (be in) need, to want for / to require"	3152	https://en.openrussian.org/ru/%D0%BD%D1%83%D0%B6%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+вы́играть	"win"	3153	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B8%D0%B3%D1%80%D0%B0%D1%82%D1%8C
+обще́ние	"communication"	3154	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5
+колбаса́	"sausage"	3155	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0
+мелькну́ть	"to flicker / to gleam, to flash, to appear for a moment"	3156	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%BB%D1%8C%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+обора́чиваться	"to turn around, to look back"	3157	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+чуде́сный	"wonderful"	3158	https://en.openrussian.org/ru/%D1%87%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9
+люби́тель	"amateur"	3159	https://en.openrussian.org/ru/%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+трясти́сь	"shake"	3160	https://en.openrussian.org/ru/%D1%82%D1%80%D1%8F%D1%81%D1%82%D0%B8%D1%81%D1%8C
+соотве́тствие	"accordance"	3161	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+ошиба́ться	"be wrong, make a mistake"	3162	https://en.openrussian.org/ru/%D0%BE%D1%88%D0%B8%D0%B1%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+показа́ние	"testimony"	3163	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5
+испу́ганно	"scared"	3164	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BF%D1%83%D0%B3%D0%B0%D0%BD%D0%BD%D0%BE
+леге́нда	"legend"	3165	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0
+ре́зать	"cut"	3166	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B7%D0%B0%D1%82%D1%8C
+испыта́ние	"test, trials and tribulations, trial (experiment)"	3167	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5
+окружа́ющий	"surrounding"	3168	https://en.openrussian.org/ru/%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B9
+потрясти́	"shake, shock"	3169	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D1%80%D1%8F%D1%81%D1%82%D0%B8
+крова́вый	"bloody"	3170	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%8B%D0%B9
+удержа́ться	"restrain one's self"	3171	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+мы́шка	"mouse"	3172	https://en.openrussian.org/ru/%D0%BC%D1%8B%D1%88%D0%BA%D0%B0
+цветно́й	"coloured"	3173	https://en.openrussian.org/ru/%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B9
+че́люсть	"jaw"	3174	https://en.openrussian.org/ru/%D1%87%D0%B5%D0%BB%D1%8E%D1%81%D1%82%D1%8C
+опаса́ться	"fear, beware"	3175	https://en.openrussian.org/ru/%D0%BE%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+отобра́ть	"take away"	3176	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C
+ночева́ть	"stay the night. spend the night"	3177	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%87%D0%B5%D0%B2%D0%B0%D1%82%D1%8C
+Ита́лия	"Italy"	3178	https://en.openrussian.org/ru/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F
+жа́рко	"it is hot"	3179	https://en.openrussian.org/ru/%D0%B6%D0%B0%D1%80%D0%BA%D0%BE
+тра́тить	"spend"	3180	https://en.openrussian.org/ru/%D1%82%D1%80%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+понести́	"bear"	3181	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+недово́льный	"dissatisfied"	3182	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+ухо́д	"leaving, care"	3183	https://en.openrussian.org/ru/%D1%83%D1%85%D0%BE%D0%B4
+ремо́нт	"repair"	3184	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82
+оско́лок	"splinter"	3185	https://en.openrussian.org/ru/%D0%BE%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA
+сосе́дка	"neighbour (female)"	3186	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%BA%D0%B0
+телегра́мма	"telegram"	3187	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0
+отправля́ться	"start"	3188	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+во́льный	"free"	3189	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+зага́дочный	"mysterious"	3190	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B3%D0%B0%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9
+у́голь	"coal"	3191	https://en.openrussian.org/ru/%D1%83%D0%B3%D0%BE%D0%BB%D1%8C
+согла́сие	"consent"	3192	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5
+заключённый	"convicted"	3193	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9
+звон	"peal"	3194	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%BE%D0%BD
+угада́ть	"guess"	3195	https://en.openrussian.org/ru/%D1%83%D0%B3%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+зака́з	"order"	3196	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7
+доверя́ть	"trust"	3197	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%82%D1%8C
+разу́мный	"reasonable"	3198	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%BD%D1%8B%D0%B9
+чече́нец	"Chechen"	3199	https://en.openrussian.org/ru/%D1%87%D0%B5%D1%87%D0%B5%D0%BD%D0%B5%D1%86
+растеря́ться	""	3200	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C%D1%81%D1%8F

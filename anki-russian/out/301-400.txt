@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+ма́ма	"mom"	301	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%BC%D0%B0
+среди́	"among"	302	https://en.openrussian.org/ru/%D1%81%D1%80%D0%B5%D0%B4%D0%B8
+стари́к	"old man"	303	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA
+успе́ть	"to have time, to manage, to arrive in time (for), to catch"	304	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BF%D0%B5%D1%82%D1%8C
+смерть	"death, (emphatic with как) dying for"	305	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C
+власть	"authority, rule, control, (law) force (legal validity)"	306	https://en.openrussian.org/ru/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C
+ма́льчик	"boy, lad, apprentice"	307	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA
+та́кже	"also"	308	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BA%D0%B6%D0%B5
+брать	"to take (out of), have something out of"	309	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%B0%D1%82%D1%8C
+о́браз	"shape, appearance, style, figure, way, icon"	310	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7
+письмо́	"letter (written communication), writing (action), script"	311	https://en.openrussian.org/ru/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE
+живо́й	"alive, lively, quick"	312	https://en.openrussian.org/ru/%D0%B6%D0%B8%D0%B2%D0%BE%D0%B9
+отноше́ние	"attitude, treatment, relation, ratio, official letter"	313	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5
+се́рдце	"heart, temper, love"	314	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5
+ко	"to, by"	315	https://en.openrussian.org/ru/%D0%BA%D0%BE
+нача́льник	"boss"	316	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA
+пройти́	"pass, get to, make one's way, be held (event)"	317	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B9%D1%82%D0%B8
+начина́ть	"to begin"	318	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%82%D1%8C
+вокру́г	"around"	319	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3
+появи́ться	"to appear, will have"	320	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%8F%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+чёрный	"black, (colloquial) dark, rough"	321	https://en.openrussian.org/ru/%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B9
+де́вушка	"girl, miss (informal), girlfriend"	322	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0
+солда́т	"soldier"	323	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82
+иногда́	"sometimes"	324	https://en.openrussian.org/ru/%D0%B8%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0
+забы́ть	"to forget, to neglect, to leave, to let it go"	325	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B1%D1%8B%D1%82%D1%8C
+вспо́мнить	"to remember, to recall"	326	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C
+не́бо	"sky, heaven, air"	327	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B1%D0%BE
+зате́м	"then"	328	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%82%D0%B5%D0%BC
+систе́ма	"system"	329	https://en.openrussian.org/ru/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0
+во́здух	"air (usually uncountable), (figuratively) atmosphere, (religion) veil"	330	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85
+о́ба	"both"	331	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%B0
+со́бственный	"one's own, (algebra) eigen-"	332	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+пыта́ться	"to try, to seek, to endeavor"	333	https://en.openrussian.org/ru/%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+находи́ться	"be situated, to be here"	334	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+держа́ть	"to hold, to take"	335	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C
+проси́ть	"to request, to ask a favour, to beg"	336	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+показа́ть	"to show, to display, to reveal, to point, to depose"	337	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
+ра́зный	"different"	338	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9
+ребя́та	"lads, children"	339	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B1%D1%8F%D1%82%D0%B0
+брат	"brother"	340	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%B0%D1%82
+кварти́ра	"flat, apartment"	341	https://en.openrussian.org/ru/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0
+отку́да	"from where"	342	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0
+выходи́ть	"go out, use up, get married, be published"	343	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+вы́ходить	"rear, nurse, go over"	344	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+подня́ть	"to lift, to increase"	345	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D1%8C
+генера́л	"general"	346	https://en.openrussian.org/ru/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB
+называ́ть	"to call"	347	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+тре́тий	"third, third course (time)"	348	https://en.openrussian.org/ru/%D1%82%D1%80%D0%B5%D1%82%D0%B8%D0%B9
+посла́ть	"to send, to swear (at)"	349	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D0%BB%D0%B0%D1%82%D1%8C
+подойти́	"to approach, to fit"	350	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BE%D0%B9%D1%82%D0%B8
+рассказа́ть	"to tell, to relate"	351	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
+осо́бенно	"especially"	352	https://en.openrussian.org/ru/%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE
+кровь	"blood"	353	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%BE%D0%B2%D1%8C
+встать	"to get up, to rise (sun), to arise, to stop"	354	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%82%D0%B0%D1%82%D1%8C
+шаг	"step, pace, tread"	355	https://en.openrussian.org/ru/%D1%88%D0%B0%D0%B3
+спра́шивать	"to ask, to demand"	356	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%82%D1%8C
+хозя́ин	"owner, landlord, boss, man, (computers) host"	357	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%B7%D1%8F%D0%B8%D0%BD
+внима́ние	"attention, heed"	358	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5
+сле́довать	"to follow, to ought to, to follow, to follow, to follow, to follow"	359	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+поста́вить	"to put, to apply, to put on stage, to raise (a question), to deliver"	360	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+бро́сить	"to throw, to send urgently, to give up, to abandon"	361	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+вро́де	"seem"	362	https://en.openrussian.org/ru/%D0%B2%D1%80%D0%BE%D0%B4%D0%B5
+вели́кий	"large, great"	363	https://en.openrussian.org/ru/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9
+наприме́р	"for example"	364	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80
+оста́вить	"to leave, to abandon, to drop, to keep"	365	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+туда́	"there"	366	https://en.openrussian.org/ru/%D1%82%D1%83%D0%B4%D0%B0
+действи́тельно	"really"	367	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE
+ма́ло	"little, too little"	368	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%BB%D0%BE
+шко́ла	"school, academy, university"	369	https://en.openrussian.org/ru/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0
+равно́	"is indifferent, equally, anyway"	370	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B2%D0%BD%D0%BE
+труд	"work, difficulty, toil, handicrafts, proceeding"	371	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D0%B4
+капита́н	"captain"	372	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD
+сюда́	"here"	373	https://en.openrussian.org/ru/%D1%81%D1%8E%D0%B4%D0%B0
+сли́шком	"too (much)"	374	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC
+сле́дующий	"following, next"	375	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D0%B9
+тяжёлый	"heavy, hard, serious, severe, oppressive"	376	https://en.openrussian.org/ru/%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9
+па́рень	"boy, guy, boyfriend"	377	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%80%D0%B5%D0%BD%D1%8C
+гру́ппа	"group, A band"	378	https://en.openrussian.org/ru/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+со́лнце	"sun"	379	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5
+любо́вь	"love, affection"	380	https://en.openrussian.org/ru/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C
+отвеча́ть	"to answer, to be responsible for, to account for, to be held to account for"	381	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%82%D1%8C
+у́хо	"ear"	382	https://en.openrussian.org/ru/%D1%83%D1%85%D0%BE
+уходи́ть	"leave"	383	https://en.openrussian.org/ru/%D1%83%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+неде́ля	"week"	384	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F
+войти́	"enter"	385	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B9%D1%82%D0%B8
+чтоб	"to"	386	https://en.openrussian.org/ru/%D1%87%D1%82%D0%BE%D0%B1
+расска́зывать	"to tell, to relate"	387	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+молча́ть	"to be silent"	388	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D1%82%D1%8C
+отве́т	"answer"	389	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B2%D0%B5%D1%82
+спать	"to sleep"	390	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B0%D1%82%D1%8C
+гото́вый	"ready, ready, finished"	391	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9
+явля́ться	"to be, to form, to report in person"	392	https://en.openrussian.org/ru/%D1%8F%D0%B2%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+два́дцать	"twenty"	393	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C
+бе́рег	"shore, land"	394	https://en.openrussian.org/ru/%D0%B1%D0%B5%D1%80%D0%B5%D0%B3
+по́мощь	"help, relief"	395	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C
+мужчи́на	"man"	396	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0
+моме́нт	"moment (time), aspect"	397	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82
+иска́ть	"to look for, to sue (law)"	398	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D1%8C
+останови́ться	"to stop, to stay (as a visitor)"	399	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+ли́чный	"personal (of a given person), (grammar) personal"	400	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9

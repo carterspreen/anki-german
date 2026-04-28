@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+покры́ть	"cover"	1901	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8C
+глубоко́	"deep"	1902	https://en.openrussian.org/ru/%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE
+страда́ть	"to suffer, to be in poor quality, to be subject to"	1903	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+ве́тка	"branch, metro line"	1904	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%82%D0%BA%D0%B0
+влия́ние	"influence"	1905	https://en.openrussian.org/ru/%D0%B2%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5
+разве́дка	"secret service"	1906	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0
+спра́ва	"on the right, from the right"	1907	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0
+по́льза	"benefit"	1908	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%B0
+до́чка	"daughter"	1909	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%87%D0%BA%D0%B0
+на́дпись	"title"	1910	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D1%8C
+ненави́деть	"hate"	1911	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C
+и́стинный	"true"	1912	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9
+обезья́на	"monkey"	1913	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D0%B0
+замолча́ть	"become silent"	1914	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D1%82%D1%8C
+твёрдо	"firmly"	1915	https://en.openrussian.org/ru/%D1%82%D0%B2%D1%91%D1%80%D0%B4%D0%BE
+склад	"storehouse"	1916	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4
+пере́дний	"front"	1917	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9
+се́вер	"north"	1918	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B2%D0%B5%D1%80
+покупа́ть	"buy"	1919	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C
+печа́ть	"seal"	1920	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C
+крестья́нин	"peasant"	1921	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%B8%D0%BD
+ю́жный	"south"	1922	https://en.openrussian.org/ru/%D1%8E%D0%B6%D0%BD%D1%8B%D0%B9
+пальто́	"coat"	1923	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BB%D1%8C%D1%82%D0%BE
+любопы́тство	"curiosity"	1924	https://en.openrussian.org/ru/%D0%BB%D1%8E%D0%B1%D0%BE%D0%BF%D1%8B%D1%82%D1%81%D1%82%D0%B2%D0%BE
+таре́лка	"plate"	1925	https://en.openrussian.org/ru/%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0
+сле́дствие	"consequence"	1926	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+наско́лько	"how much, to what degree"	1927	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE
+выбира́ть	"choose"	1928	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C
+зара́нее	"in advance, beforehand, earlier"	1929	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%80%D0%B0%D0%BD%D0%B5%D0%B5
+семе́йный	"domestic / family"	1930	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9
+продолжа́ться	"continue"	1931	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+гро́мкий	"loud"	1932	https://en.openrussian.org/ru/%D0%B3%D1%80%D0%BE%D0%BC%D0%BA%D0%B8%D0%B9
+подписа́ть	"sign"	1933	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C
+вы́ясниться	"to turn out, become clear"	1934	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+раке́та	"rocket"	1935	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0
+заня́ться	"set - busy oneself, take up"	1936	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+завести́	"to get, start"	1937	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+зарпла́та	"salary"	1938	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D0%B0
+топо́р	"axe"	1939	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BF%D0%BE%D1%80
+уби́йца	"killer"	1940	https://en.openrussian.org/ru/%D1%83%D0%B1%D0%B8%D0%B9%D1%86%D0%B0
+сообрази́ть	"figure out"	1941	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D1%8C
+су́щность	"essence, substance"	1942	https://en.openrussian.org/ru/%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+сперва́	"at first"	1943	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B5%D1%80%D0%B2%D0%B0
+одино́кий	"lonely"	1944	https://en.openrussian.org/ru/%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9
+сохрани́ть	"keep"	1945	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C
+до́мик	"cottage"	1946	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BA
+меня́ть	"change"	1947	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C
+за́пись	"record"	1948	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C
+пожа́р	"fire"	1949	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B6%D0%B0%D1%80
+па́чка	"packet"	1950	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%87%D0%BA%D0%B0
+а́га	"cane toad"	1951	https://en.openrussian.org/ru/%D0%B0%D0%B3%D0%B0
+ага́	"uh-huh / aha, yep"	1952	https://en.openrussian.org/ru/%D0%B0%D0%B3%D0%B0
+широко́	"wide"	1953	https://en.openrussian.org/ru/%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%BE
+указа́ть	"show, point"	1954	https://en.openrussian.org/ru/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
+спря́тать	"hide"	1955	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D1%8F%D1%82%D0%B0%D1%82%D1%8C
+свиде́тель	"witness"	1956	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C
+привы́чный	"habitual"	1957	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BD%D1%8B%D0%B9
+пи́ща	"food"	1958	https://en.openrussian.org/ru/%D0%BF%D0%B8%D1%89%D0%B0
+забо́та	"care"	1959	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B1%D0%BE%D1%82%D0%B0
+и́зо	"from, out of"	1960	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%BE
+тако́в	"such is"	1961	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BA%D0%BE%D0%B2
+откры́тие	"discovery"	1962	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5
+деви́ца	"maiden, girl"	1963	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B2%D0%B8%D1%86%D0%B0
+ощуща́ть	"feel"	1964	https://en.openrussian.org/ru/%D0%BE%D1%89%D1%83%D1%89%D0%B0%D1%82%D1%8C
+специа́льно	"intentionally, specially"	1965	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE
+вождь	"leader"	1966	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B6%D0%B4%D1%8C
+одея́ло	"blanket, winter blanket"	1967	https://en.openrussian.org/ru/%D0%BE%D0%B4%D0%B5%D1%8F%D0%BB%D0%BE
+храм	"temple"	1968	https://en.openrussian.org/ru/%D1%85%D1%80%D0%B0%D0%BC
+стуча́ть	"knock, tap (into)"	1969	https://en.openrussian.org/ru/%D1%81%D1%82%D1%83%D1%87%D0%B0%D1%82%D1%8C
+сде́латься	"become, happen"	1970	https://en.openrussian.org/ru/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+лета́ть	"fly"	1971	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%82%D0%B0%D1%82%D1%8C
+пассажи́р	"passenger"	1972	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80
+строи́тельство	"construction"	1973	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE
+пое́здка	"drive, trip"	1974	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0
+ра́на	"wound"	1975	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%BD%D0%B0
+верёвка	"rope"	1976	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%80%D1%91%D0%B2%D0%BA%D0%B0
+пого́да	"weather"	1977	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0
+две́сти	"two hundred"	1978	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+вали́ть	"bring down, get out, pile, lay"	1979	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%BB%D0%B8%D1%82%D1%8C
+па́спорт	"passport"	1980	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82
+привы́чка	"habit"	1981	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BA%D0%B0
+холм	"hill"	1982	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%BB%D0%BC
+сдать	"rent out, take an exam, rat out, give, hand over"	1983	https://en.openrussian.org/ru/%D1%81%D0%B4%D0%B0%D1%82%D1%8C
+благодаря́	"thanks to"	1984	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8F
+сообща́ть	"report, let know"	1985	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B0%D1%82%D1%8C
+подава́ть	"give"	1986	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C
+уста́ть	"get tired"	1987	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D0%B0%D1%82%D1%8C
+скры́ться	"hide"	1988	https://en.openrussian.org/ru/%D1%81%D0%BA%D1%80%D1%8B%D1%82%D1%8C%D1%81%D1%8F
+шоссе́	"highway"	1989	https://en.openrussian.org/ru/%D1%88%D0%BE%D1%81%D1%81%D0%B5
+могу́чий	"mighty"	1990	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B3%D1%83%D1%87%D0%B8%D0%B9
+поворо́т	"turn"	1991	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82
+восто́рг	"delight"	1992	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3
+мечта́	"dream"	1993	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%87%D1%82%D0%B0
+каби́на	"booth"	1994	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0
+карто́шка	"potatoes"	1995	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%B0
+дожда́ться	"to wait until, to end"	1996	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B6%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+уничто́жить	"destroy"	1997	https://en.openrussian.org/ru/%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B8%D1%82%D1%8C
+земно́й	"earthly"	1998	https://en.openrussian.org/ru/%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9
+надое́сть	"get tired of"	1999	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B4%D0%BE%D0%B5%D1%81%D1%82%D1%8C
+Изра́иль	"Israel"	2000	https://en.openrussian.org/ru/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C

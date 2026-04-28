@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+библиоте́ка	"library"	2101	https://en.openrussian.org/ru/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0
+боти́нок	"shoe"	2102	https://en.openrussian.org/ru/%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BE%D0%BA
+попада́ть	"to hit (a target), to get"	2103	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+попа́дать	"to  fall one after the other"	2104	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+покача́ть	"shake"	2105	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C
+ткань	"cloth, tissue"	2106	https://en.openrussian.org/ru/%D1%82%D0%BA%D0%B0%D0%BD%D1%8C
+хала́т	"dressing-gown, bathrobe"	2107	https://en.openrussian.org/ru/%D1%85%D0%B0%D0%BB%D0%B0%D1%82
+отдыха́ть	"rest"	2108	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%82%D1%8C
+путём	"by means of"	2109	https://en.openrussian.org/ru/%D0%BF%D1%83%D1%82%D1%91%D0%BC
+переходи́ть	"get across, convert"	2110	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+океа́н	"ocean"	2111	https://en.openrussian.org/ru/%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD
+полице́йский	"police-"	2112	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9
+дета́ль	"detail, part"	2113	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C
+молодёжь	"young, young generation"	2114	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D1%8C
+ра́дио	"radio"	2115	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE
+гнать	"persecute, drive, pursue, distill"	2116	https://en.openrussian.org/ru/%D0%B3%D0%BD%D0%B0%D1%82%D1%8C
+плыть	"swim, float"	2117	https://en.openrussian.org/ru/%D0%BF%D0%BB%D1%8B%D1%82%D1%8C
+ли́дер	"leader"	2118	https://en.openrussian.org/ru/%D0%BB%D0%B8%D0%B4%D0%B5%D1%80
+наступа́ть	"step on, arrive (in time), attack, to be"	2119	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D1%8C
+парти́йный	"(relationa) party, loyal to the party line"	2120	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9
+коро́ва	"cow, fat woman"	2121	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D0%B0
+престу́пник	"criminal, perpetrator"	2122	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%B8%D0%BA
+подхвати́ть	"catch"	2123	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+ито́г	"in the end, sum"	2124	https://en.openrussian.org/ru/%D0%B8%D1%82%D0%BE%D0%B3
+бо́же	"my god, god"	2125	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%B6%D0%B5
+исчеза́ть	"disappear"	2126	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%87%D0%B5%D0%B7%D0%B0%D1%82%D1%8C
+зада́ние	"task, homework, assignment, quest"	2127	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5
+посиде́ть	"sit (for a while)"	2128	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D0%B8%D0%B4%D0%B5%D1%82%D1%8C
+заседа́ние	"meeting"	2129	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5
+па́пка	"father"	2130	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0
+Фра́нция	"France"	2131	https://en.openrussian.org/ru/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+согла́сно	"according to"	2132	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE
+депута́т	"government official, member of parliament"	2133	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82
+обра́доваться	"become happy"	2134	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+не́когда	"there is no time, once"	2135	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0
+мо́лодость	"youth, youthfulness, youngness"	2136	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C
+ложи́ться	"lie down, go to bed"	2137	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+вы́яснить	"To figure out"	2138	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D1%8C
+удо́бный	"comfortable, convenient"	2139	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9
+но́рма	"standard"	2140	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%80%D0%BC%D0%B0
+отвести́	"take, remove"	2141	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+гном	"gnome"	2142	https://en.openrussian.org/ru/%D0%B3%D0%BD%D0%BE%D0%BC
+генера́льный	"general"	2143	https://en.openrussian.org/ru/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+ро́вный	"even (equable, equal), even-tempered"	2144	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9
+переби́ть	"To interrupt, kill"	2145	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D1%8C
+удава́ться	"manage, be possible"	2146	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+цепь	"chain"	2147	https://en.openrussian.org/ru/%D1%86%D0%B5%D0%BF%D1%8C
+мето́да	"method"	2148	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0
+отве́тственность	"responsibility"	2149	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+седьмо́й	"seventh"	2150	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B4%D1%8C%D0%BC%D0%BE%D0%B9
+задержа́ть	"detain / delay, hold"	2151	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C
+жар	"heat / fever, ardour"	2152	https://en.openrussian.org/ru/%D0%B6%D0%B0%D1%80
+фина́нсовый	"financial"	2153	https://en.openrussian.org/ru/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9
+непло́хо	"not bad"	2154	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D0%BB%D0%BE%D1%85%D0%BE
+паке́т	"bag"	2155	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BA%D0%B5%D1%82
+уваже́ние	"respect"	2156	https://en.openrussian.org/ru/%D1%83%D0%B2%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+конта́кт	"contact"	2157	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82
+пот	"sweat"	2158	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82
+подва́л	"basement"	2159	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB
+у́жин	"dinner"	2160	https://en.openrussian.org/ru/%D1%83%D0%B6%D0%B8%D0%BD
+перехо́д	"passage"	2161	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4
+вы́нести	"to carry out, to transfer, to get, to submit, to pass, to endure"	2162	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+проверя́ть	"check"	2163	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%82%D1%8C
+бег	"run"	2164	https://en.openrussian.org/ru/%D0%B1%D0%B5%D0%B3
+спуска́ться	"come down"	2165	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+америка́нец	"American"	2166	https://en.openrussian.org/ru/%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D0%B5%D1%86
+тради́ция	"tradition"	2167	https://en.openrussian.org/ru/%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F
+приве́т	"hello (informal)"	2168	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82
+столб	"post"	2169	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BB%D0%B1
+услу́га	"service"	2170	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0
+продава́ть	"sell"	2171	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C
+шеф	"chief"	2172	https://en.openrussian.org/ru/%D1%88%D0%B5%D1%84
+не́жный	"tender"	2173	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9
+подозрева́ть	"suspect"	2174	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D1%8C
+вещество́	"matter"	2175	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+ба́ня	"banya"	2176	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%BD%D1%8F
+ра́достно	"With joy"	2177	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%BD%D0%BE
+снаря́д	"projectile"	2178	https://en.openrussian.org/ru/%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4
+вор	"thief"	2179	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%80
+валя́ться	"lie about"	2180	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+разве́дчик	"scout (secret service man, intelligence agent)"	2181	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D1%87%D0%B8%D0%BA
+заме́тно	"it is noticeable"	2182	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BD%D0%BE
+поле́зный	"useful, benifited"	2183	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9
+реда́ктор	"editor"	2184	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80
+банди́т	"gunman"	2185	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%BD%D0%B4%D0%B8%D1%82
+нема́ло	"quite a lot"	2186	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BC%D0%B0%D0%BB%D0%BE
+поду́шка	"pillow"	2187	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0
+нали́ть	"pour out"	2188	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D1%8C
+обра́тный	"reverse, feedback"	2189	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
+хо́лодно	"it is cold"	2190	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%BE
+грузови́к	"lorry"	2191	https://en.openrussian.org/ru/%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA
+шути́ть	"joke"	2192	https://en.openrussian.org/ru/%D1%88%D1%83%D1%82%D0%B8%D1%82%D1%8C
+раство́р	"solution"	2193	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80
+я́ма	"pit"	2194	https://en.openrussian.org/ru/%D1%8F%D0%BC%D0%B0
+ха	"ha"	2195	https://en.openrussian.org/ru/%D1%85%D0%B0
+огля́дываться	"to look back"	2196	https://en.openrussian.org/ru/%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+министе́рство	"ministry"	2197	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE
+стари́нный	"antique, ancient"	2198	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9
+потре́бовать	"demand, require, expect, summons"	2199	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+моде́ль	"model"	2200	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C

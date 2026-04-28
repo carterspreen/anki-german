@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+при́нцип	"principle"	1201	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF
+миг	"moment"	1202	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%B3
+Евро́па	"Europe"	1203	https://en.openrussian.org/ru/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0
+плати́ть	"pay"	1204	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+ны́нешний	"current"	1205	https://en.openrussian.org/ru/%D0%BD%D1%8B%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9
+вероя́тно	"likely"	1206	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE
+тётя	"aunt"	1207	https://en.openrussian.org/ru/%D1%82%D1%91%D1%82%D1%8F
+лечь	"lie down, form"	1208	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%87%D1%8C
+ма́стер	"foreman"	1209	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80
+отря́д	"squad"	1210	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%80%D1%8F%D0%B4
+стару́ха	"old woman"	1211	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D1%83%D1%85%D0%B0
+руководи́тель	"leader"	1212	https://en.openrussian.org/ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+жи́тель	"inhabitant"	1213	https://en.openrussian.org/ru/%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+меч	"sword"	1214	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%87
+нау́чный	"scientific"	1215	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9
+дыша́ть	"breathe"	1216	https://en.openrussian.org/ru/%D0%B4%D1%8B%D1%88%D0%B0%D1%82%D1%8C
+госпо́дь	"God"	1217	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C
+наибо́лее	"most"	1218	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5
+тюрьма́	"prison"	1219	https://en.openrussian.org/ru/%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D0%B0
+ой	"oh / ow, reinforcing (what, such)"	1220	https://en.openrussian.org/ru/%D0%BE%D0%B9
+подожда́ть	"wait"	1221	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BE%D0%B6%D0%B4%D0%B0%D1%82%D1%8C
+ближа́йший	"nearest, next"	1222	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9
+внутри́	"inside"	1223	https://en.openrussian.org/ru/%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8
+дворе́ц	"palace"	1224	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86
+я́ркий	"bright, vivid"	1225	https://en.openrussian.org/ru/%D1%8F%D1%80%D0%BA%D0%B8%D0%B9
+учёный	"scientist"	1226	https://en.openrussian.org/ru/%D1%83%D1%87%D1%91%D0%BD%D1%8B%D0%B9
+ка́мера	"camera"	1227	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0
+привезти́	"bring"	1228	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7%D1%82%D0%B8
+существо́	"essence, creature"	1229	https://en.openrussian.org/ru/%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+биле́т	"ticket"	1230	https://en.openrussian.org/ru/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82
+сосе́дний	"neighbouring"	1231	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9
+фра́за	"phrase"	1232	https://en.openrussian.org/ru/%D1%84%D1%80%D0%B0%D0%B7%D0%B0
+повторя́ть	"repeat"	1233	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%82%D1%8C
+Америка	"America"	1234	https://en.openrussian.org/ru/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0
+весна́	"spring"	1235	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D0%BD%D0%B0
+ло́дка	"small boat"	1236	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0
+счита́ться	"to be considered"	1237	https://en.openrussian.org/ru/%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+фильм	"movie"	1238	https://en.openrussian.org/ru/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC
+роди́ться	"be born"	1239	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+больни́ца	"hospital"	1240	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0
+смех	"laughter"	1241	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%B5%D1%85
+специали́ст	"specialist"	1242	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82
+образова́ние	"education, formation"	1243	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+спасть	"fall down"	1244	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B0%D1%81%D1%82%D1%8C
+пя́тый	"fifth"	1245	https://en.openrussian.org/ru/%D0%BF%D1%8F%D1%82%D1%8B%D0%B9
+мальчи́шка	"boy, greenhorn"	1246	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D1%88%D0%BA%D0%B0
+проговори́ть	"to talk through"	1247	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C
+вы́брать	"choose"	1248	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C
+тяжело́	"hard, heavily"	1249	https://en.openrussian.org/ru/%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE
+определённый	"certain, definite"	1250	https://en.openrussian.org/ru/%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9
+проду́кт	"product"	1251	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82
+пистоле́т	"pistol (handgun)"	1252	https://en.openrussian.org/ru/%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82
+разда́ться	"to ring"	1253	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+постепе́нно	"gradually"	1254	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%BD%D0%BE
+ро́дина	"native land"	1255	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0
+возмо́жный	"possible"	1256	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9
+ли́чность	"personality, identity"	1257	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+со́бственно	"strictly, really, honestly"	1258	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE
+собра́ть	"gather, to pick up"	1259	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C
+насчёт	"as regards"	1260	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D1%87%D1%91%D1%82
+внима́тельно	"attentively"	1261	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE
+ско́рость	"speed"	1262	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C
+уча́сток	"region, part, sector, police station"	1263	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA
+учи́ть	"learn, teach"	1264	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B8%D1%82%D1%8C
+техни́ческий	"technical"	1265	https://en.openrussian.org/ru/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+ви́димый	"visible"	1266	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D1%8B%D0%B9
+текст	"text"	1267	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BA%D1%81%D1%82
+зверь	"(wild) animal, beast"	1268	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%B5%D1%80%D1%8C
+вслед	"following, after"	1269	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BB%D0%B5%D0%B4
+е́здить	"go (by transport)"	1270	https://en.openrussian.org/ru/%D0%B5%D0%B7%D0%B4%D0%B8%D1%82%D1%8C
+злой	"evil, angry"	1271	https://en.openrussian.org/ru/%D0%B7%D0%BB%D0%BE%D0%B9
+извини́ть	"excuse"	1272	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%B2%D0%B8%D0%BD%D0%B8%D1%82%D1%8C
+ди́кий	"wild"	1273	https://en.openrussian.org/ru/%D0%B4%D0%B8%D0%BA%D0%B8%D0%B9
+наро́дный	"people's"	1274	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+арти́ст	"artist"	1275	https://en.openrussian.org/ru/%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82
+усмехну́ться	"sneer / grin"	1276	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BC%D0%B5%D1%85%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+автомоби́ль	"car (automobile), motor vehicle"	1277	https://en.openrussian.org/ru/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C
+уча́стие	"participation"	1278	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5
+кот	"cat"	1279	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%82
+мост	"bridge, axle"	1280	https://en.openrussian.org/ru/%D0%BC%D0%BE%D1%81%D1%82
+приме́рно	"around, approximately"	1281	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE
+находи́ть	"to find, to come across, to happen to have"	1282	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+здоро́вье	"health"	1283	https://en.openrussian.org/ru/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5
+костёр	"bonfire"	1284	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80
+заходи́ть	"go in, sun sets"	1285	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+челове́чество	"humanity"	1286	https://en.openrussian.org/ru/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+пу́ля	"bullet"	1287	https://en.openrussian.org/ru/%D0%BF%D1%83%D0%BB%D1%8F
+сомне́ние	"doubt"	1288	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BC%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+морско́й	"marine, sea"	1289	https://en.openrussian.org/ru/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9
+отсу́тствие	"absence"	1290	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+случа́йно	"by chance"	1291	https://en.openrussian.org/ru/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE
+сло́жный	"complicated, difficult"	1292	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9
+мя́со	"meat, flesh"	1293	https://en.openrussian.org/ru/%D0%BC%D1%8F%D1%81%D0%BE
+не́что	"something"	1294	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%87%D1%82%D0%BE
+собира́ть	"gather, to pick up"	1295	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C
+отме́тить	"mark, celebrate"	1296	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BC%D0%B5%D1%82%D0%B8%D1%82%D1%8C
+истори́ческий	"historical"	1297	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+чита́тель	"reader"	1298	https://en.openrussian.org/ru/%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+доска́	"board, blackboard"	1299	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%81%D0%BA%D0%B0
+уби́йство	"murder"	1300	https://en.openrussian.org/ru/%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE

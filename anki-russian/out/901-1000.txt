@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+во́зраст	"age"	901	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82
+поги́бнуть	"get killed"	902	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D0%BD%D1%83%D1%82%D1%8C
+спосо́бный	"capable of"	903	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9
+ле́стница	"stairs"	904	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0
+держа́ться	"keep, to hold"	905	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+мини́стр	"Minister"	906	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80
+фронт	"front"	907	https://en.openrussian.org/ru/%D1%84%D1%80%D0%BE%D0%BD%D1%82
+переда́ть	"deliver, pass"	908	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%8C
+обра́тно	"back"	909	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE
+стреля́ть	"shoot"	910	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8F%D1%82%D1%8C
+Петербу́рг	"St Petersburg"	911	https://en.openrussian.org/ru/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+неуже́ли	"really / is it possible that"	912	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%83%D0%B6%D0%B5%D0%BB%D0%B8
+сад	"garden"	913	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%B4
+проводи́ть	"spend, conduct, lead, hold, make, run"	914	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+зада́ча	"task"	915	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0
+о́стрый	"sharp, spicy"	916	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9
+мол	"supposedly"	917	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB
+осторо́жно	"carefully"	918	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE
+свобо́дный	"free"	919	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+входи́ть	"enter, go in(side), include"	920	https://en.openrussian.org/ru/%D0%B2%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+темнота́	"dark"	921	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B0
+назва́ние	"name, letter"	922	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+дви́гаться	"to move"	923	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+возни́кнуть	"arise, have"	924	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+большинство́	"most of the"	925	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE
+организа́ция	"organization"	926	https://en.openrussian.org/ru/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+дым	"smoke"	927	https://en.openrussian.org/ru/%D0%B4%D1%8B%D0%BC
+вы́сший	"higher"	928	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D0%B9
+киломе́тр	"kilometre"	929	https://en.openrussian.org/ru/%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80
+позвони́ть	"ring, call"	930	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C
+закрича́ть	"shout"	931	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D1%80%D0%B8%D1%87%D0%B0%D1%82%D1%8C
+ра́ди	"for the sake of"	932	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%B8
+председа́тель	"chairman"	933	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+приказа́ть	"command"	934	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
+прямо́й	"straight"	935	https://en.openrussian.org/ru/%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9
+про́чее	"other"	936	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%B5
+слегка́	"slightly (lightly), easily, a little / a bit"	937	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%B3%D0%BA%D0%B0
+попро́бовать	"attempt"	938	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+вско́ре	"soon"	939	https://en.openrussian.org/ru/%D0%B2%D1%81%D0%BA%D0%BE%D1%80%D0%B5
+вверх	"up"	940	https://en.openrussian.org/ru/%D0%B2%D0%B2%D0%B5%D1%80%D1%85
+ночно́й	"night, nocturnal"	941	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9
+до́ллар	"dollar"	942	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80
+носи́ть	"wear, carry"	943	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+выраже́ние	"expression"	944	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+ко́нчиться	"end"	945	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+пла́кать	"weep"	946	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D1%8C
+танк	"tank"	947	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BD%D0%BA
+меша́ть	"to mix (up), to interfere, to confuse, to disturb, to hinder"	948	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D1%8C
+сухо́й	"dry"	949	https://en.openrussian.org/ru/%D1%81%D1%83%D1%85%D0%BE%D0%B9
+зима́	"winter"	950	https://en.openrussian.org/ru/%D0%B7%D0%B8%D0%BC%D0%B0
+знак	"sign"	951	https://en.openrussian.org/ru/%D0%B7%D0%BD%D0%B0%D0%BA
+получа́ться	"succeed, be obtained, happen"	952	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+мозг	"brain"	953	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B7%D0%B3
+учи́тель	"teacher"	954	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+жела́ть	"wish"	955	https://en.openrussian.org/ru/%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D1%8C
+обяза́тельно	"necessarily, without fail"	956	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE
+майо́р	"major"	957	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%B9%D0%BE%D1%80
+привы́кнуть	"get used to"	958	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+поня́тно	"it is clear"	959	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE
+суди́ть	"to judge, to judge (opine), to predestine"	960	https://en.openrussian.org/ru/%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C
+тишина́	"silence"	961	https://en.openrussian.org/ru/%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0
+крова́ть	"bed, bedstead"	962	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+очередно́й	"another"	963	https://en.openrussian.org/ru/%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9
+де́ятельность	"activity, work"	964	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+США	"United States of America (USA)"	965	https://en.openrussian.org/ru/%D0%A1%D0%A8%D0%90
+ры́ба	"fish"	966	https://en.openrussian.org/ru/%D1%80%D1%8B%D0%B1%D0%B0
+щека́	"cheek"	967	https://en.openrussian.org/ru/%D1%89%D0%B5%D0%BA%D0%B0
+пти́ца	"bird"	968	https://en.openrussian.org/ru/%D0%BF%D1%82%D0%B8%D1%86%D0%B0
+обеща́ть	"promise"	969	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D1%82%D1%8C
+стра́шно	"scary"	970	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE
+ста́вить	"to put, to set, to bet, to put on stage, to implicate, to raise (question)"	971	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+стра́нно	"it is strange"	972	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE
+па́па	"dad, Pope"	973	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BF%D0%B0
+каса́ться	"touch, concerns"	974	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+во́дка	"vodka"	975	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0
+зда́ние	"building"	976	https://en.openrussian.org/ru/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5
+коло́ть	"inject, chop"	977	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%BE%D1%82%D1%8C
+зе́ркало	"looking-glass"	978	https://en.openrussian.org/ru/%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE
+собра́ться	"to gather, to be going to, to prepare"	979	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+иску́сство	"art"	980	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE
+нача́ло	"beginning, source, (plu) principles, command"	981	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE
+па́хнуть	"to smell"	982	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%85%D0%BD%D1%83%D1%82%D1%8C
+возника́ть	"occur"	983	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D1%82%D1%8C
+несмотря́	"despite"	984	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8F
+ваго́н	"wagon"	985	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD
+отсю́да	"from here"	986	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%81%D1%8E%D0%B4%D0%B0
+автома́т	"automatic machine, sub-machine-gun"	987	https://en.openrussian.org/ru/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82
+све́жий	"fresh"	988	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%B9
+мо́крый	"wet"	989	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BA%D1%80%D1%8B%D0%B9
+мили́ция	"militia"	990	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BB%D0%B8%D1%86%D0%B8%D1%8F
+срок	"deadline, term"	991	https://en.openrussian.org/ru/%D1%81%D1%80%D0%BE%D0%BA
+боево́й	"fighting"	992	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9
+споко́йный	"quiet"	993	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9
+оде́жда	"clothing"	994	https://en.openrussian.org/ru/%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0
+здоро́вый	"healthy"	995	https://en.openrussian.org/ru/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B9
+кора́бль	"ship"	996	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C
+кула́к	"fist, knuckle, cam, relatively wealthy peasants"	997	https://en.openrussian.org/ru/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA
+худо́жник	"artist"	998	https://en.openrussian.org/ru/%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA
+курс	"course"	999	https://en.openrussian.org/ru/%D0%BA%D1%83%D1%80%D1%81
+куст	"bush"	1000	https://en.openrussian.org/ru/%D0%BA%D1%83%D1%81%D1%82

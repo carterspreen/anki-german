@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+попа́сться	"to be caught, to come across"	2201	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C%D1%81%D1%8F
+отозва́ться	"answer"	2202	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BE%D0%B7%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+инструме́нт	"instrument, tool"	2203	https://en.openrussian.org/ru/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82
+зо́лото	"gold"	2204	https://en.openrussian.org/ru/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE
+ра́неный	"injured"	2205	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D1%8B%D0%B9
+води́ть	"to lead (take) someone/something (by foot), to drive (a vehicle)"	2206	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+погля́дывать	"cast a glance"	2207	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+стрело́к	"rifleman"	2208	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA
+жест	"gesture"	2209	https://en.openrussian.org/ru/%D0%B6%D0%B5%D1%81%D1%82
+непоня́тно	"it is incomprehensible"	2210	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D0%BE
+ноя́брь	"November"	2211	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C
+вы́ступить	"to step forth, to protrude, to set out, to perform, to oppose publicly, to advocate for"	2212	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C
+мра́чный	"gloomy"	2213	https://en.openrussian.org/ru/%D0%BC%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9
+эпо́ха	"epoch"	2214	https://en.openrussian.org/ru/%D1%8D%D0%BF%D0%BE%D1%85%D0%B0
+ма́ссовый	"(relational) mass"	2215	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9
+договори́ться	"negotiate, agree"	2216	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+о́тдых	"rest, relaxation"	2217	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B4%D1%8B%D1%85
+выдава́ть	"reveal / give-up, issue, represent"	2218	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C
+пробормота́ть	"mutter"	2219	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D1%80%D0%BC%D0%BE%D1%82%D0%B0%D1%82%D1%8C
+переда́ча	"transmission, tv program, pass"	2220	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0
+вы́рваться	"break loose"	2221	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%80%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+сере́бряный	"silver (the metal)"	2222	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9
+металли́ческий	"(relational) metal, metallic"	2223	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+пропусти́ть	"miss (out), let pass / let go past, skip"	2224	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C
+шар	"sphere, balloon"	2225	https://en.openrussian.org/ru/%D1%88%D0%B0%D1%80
+зва́ние	"title, rank (military), status"	2226	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+ко́жаный	"leather"	2227	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%B6%D0%B0%D0%BD%D1%8B%D0%B9
+обя́занность	"responsibility, duty"	2228	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+волне́ние	"agitation, excitement"	2229	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+щель	"gap, slit / slot"	2230	https://en.openrussian.org/ru/%D1%89%D0%B5%D0%BB%D1%8C
+а́кция	"stock, campaign"	2231	https://en.openrussian.org/ru/%D0%B0%D0%BA%D1%86%D0%B8%D1%8F
+у́зел	"knot, node, unit"	2232	https://en.openrussian.org/ru/%D1%83%D0%B7%D0%B5%D0%BB
+гроб	"coffin"	2233	https://en.openrussian.org/ru/%D0%B3%D1%80%D0%BE%D0%B1
+сверну́ть	"turn or wrap tightly"	2234	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C
+непреме́нно	"without fail"	2235	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE
+скро́мный	"modest"	2236	https://en.openrussian.org/ru/%D1%81%D0%BA%D1%80%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9
+прислу́шиваться	"listen"	2237	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%83%D1%88%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+реда́кция	"edition, editorial staff"	2238	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F
+дежу́рный	"on duty"	2239	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D1%8B%D0%B9
+высоко́	"high"	2240	https://en.openrussian.org/ru/%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE
+распоряже́ние	"instruction, disposal"	2241	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+май	"May"	2242	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%B9
+подде́ржка	"backing, support"	2243	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0
+запрети́ть	"forbid"	2244	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%82%D0%B8%D1%82%D1%8C
+две́рца	"(small) door"	2245	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B5%D1%80%D1%86%D0%B0
+многочи́сленный	"numerous"	2246	https://en.openrussian.org/ru/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+нигде́	"nowhere"	2247	https://en.openrussian.org/ru/%D0%BD%D0%B8%D0%B3%D0%B4%D0%B5
+мя́гко	"softly"	2248	https://en.openrussian.org/ru/%D0%BC%D1%8F%D0%B3%D0%BA%D0%BE
+Чечня́	"Chechnya"	2249	https://en.openrussian.org/ru/%D0%A7%D0%B5%D1%87%D0%BD%D1%8F
+ма́рка	"stamp"	2250	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%80%D0%BA%D0%B0
+зако́нчиться	"come to an end"	2251	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+разреше́ние	"permission, resolution"	2252	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5
+импера́тор	"emperor"	2253	https://en.openrussian.org/ru/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80
+листо́к	"(small) leaf / (small) sheet of paper, piece or slip of paper"	2254	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BA
+заду́мчиво	"pensively"	2255	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%B4%D1%83%D0%BC%D1%87%D0%B8%D0%B2%D0%BE
+броди́ть	"to wander"	2256	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+дви́гатель	"motor"	2257	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+прису́тствие	"attendance, a government office or bureau"	2258	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+вооружённый	"armed"	2259	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B9
+производи́ть	"produce, execute"	2260	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+пра́вильный	"correct, regular, levelling"	2261	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+присе́сть	"to crouch"	2262	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%B5%D1%81%D1%82%D1%8C
+лев	"lion"	2263	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%B2
+спра́виться	"inquire, manage"	2264	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+возвраще́ние	"return"	2265	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5
+сыгра́ть	"play"	2266	https://en.openrussian.org/ru/%D1%81%D1%8B%D0%B3%D1%80%D0%B0%D1%82%D1%8C
+коро́бка	"box"	2267	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0
+закрыва́ть	"close"	2268	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+пе́чка	"stove"	2269	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%87%D0%BA%D0%B0
+ко́нчить	"finish, ejaculate"	2270	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%8C
+смешно́й	"ridiculous"	2271	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D0%BE%D0%B9
+засну́ть	"fall asleep"	2272	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D0%BD%D1%83%D1%82%D1%8C
+посту́пок	"action"	2273	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BA
+постара́ться	"try"	2274	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+симпто́м	"symptom"	2275	https://en.openrussian.org/ru/%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC
+конкре́тный	"specific"	2276	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B9
+разби́тый	"be broken"	2277	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D1%8B%D0%B9
+вчера́шний	"yesterday's"	2278	https://en.openrussian.org/ru/%D0%B2%D1%87%D0%B5%D1%80%D0%B0%D1%88%D0%BD%D0%B8%D0%B9
+захоте́ться	"to want, tempt"	2279	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C%D1%81%D1%8F
+кла́дбище	"cemetery"	2280	https://en.openrussian.org/ru/%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5
+ко́мплекс	"complex"	2281	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81
+компле́кс	"complex"	2282	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81
+пове́сить	"hang up"	2283	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D1%82%D1%8C
+вы́браться	"get out"	2284	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+шанс	"chance"	2285	https://en.openrussian.org/ru/%D1%88%D0%B0%D0%BD%D1%81
+ло́жка	"spoon"	2286	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0
+стару́шка	"old lady"	2287	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D1%83%D1%88%D0%BA%D0%B0
+кори́чневый	"brown"	2288	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9
+наблюде́ние	"observation"	2289	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+сла́дкий	"sweet"	2290	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9
+дека́брь	"December"	2291	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+пала́та	"chamber, hospital room"	2292	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0
+оби́деться	"take offense"	2293	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%B8%D0%B4%D0%B5%D1%82%D1%8C%D1%81%D1%8F
+судья́	"judge"	2294	https://en.openrussian.org/ru/%D1%81%D1%83%D0%B4%D1%8C%D1%8F
+произноси́ть	"pronounce"	2295	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+ко́ротко	"briefly, short"	2296	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE
+порт	"port"	2297	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%80%D1%82
+винто́вка	"rifle"	2298	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0
+горизо́нт	"horizon"	2299	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82
+жени́ть	"marry"	2300	https://en.openrussian.org/ru/%D0%B6%D0%B5%D0%BD%D0%B8%D1%82%D1%8C

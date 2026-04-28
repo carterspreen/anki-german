@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+соста́в	"composition, staff / crew / team, membership"	1001	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2
+за́падный	"west"	1002	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9
+дорого́й	"expensive, dear"	1003	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B9
+лете́ть	"fly, travel"	1004	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%82%D0%B5%D1%82%D1%8C
+я́вно	"evidently"	1005	https://en.openrussian.org/ru/%D1%8F%D0%B2%D0%BD%D0%BE
+чу́до	"miracle"	1006	https://en.openrussian.org/ru/%D1%87%D1%83%D0%B4%D0%BE
+кра́йний	"extreme"	1007	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9
+кусо́к	"piece, grand (one thousand of some currency)"	1008	https://en.openrussian.org/ru/%D0%BA%D1%83%D1%81%D0%BE%D0%BA
+интере́сный	"interesting"	1009	https://en.openrussian.org/ru/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B9
+заяви́ть	"declare"	1010	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%8F%D0%B2%D0%B8%D1%82%D1%8C
+отту́да	"from there"	1011	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%82%D1%83%D0%B4%D0%B0
+фи́рма	"firm"	1012	https://en.openrussian.org/ru/%D1%84%D0%B8%D1%80%D0%BC%D0%B0
+пикни́к	"picnic"	1013	https://en.openrussian.org/ru/%D0%BF%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA
+миллио́н	"million"	1014	https://en.openrussian.org/ru/%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD
+разуме́ться	"to be meant, Of course"	1015	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B5%D1%82%D1%8C%D1%81%D1%8F
+простра́нство	"space"	1016	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE
+те́ма	"subject"	1017	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BC%D0%B0
+начина́ться	"begin"	1018	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+мирово́й	"first-rate, world"	1019	https://en.openrussian.org/ru/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9
+уда́рить	"strike, stab, kick"	1020	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C
+напомина́ть	"remind"	1021	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D1%8C
+заста́вить	"to force, cram"	1022	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C
+ли́ния	"line"	1023	https://en.openrussian.org/ru/%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F
+поговори́ть	"have a talk"	1024	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C
+мешо́к	"bag / sack"	1025	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%88%D0%BE%D0%BA
+наве́рно	"probably"	1026	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%BE
+ба́бушка	"grandmother"	1027	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B0
+крик	"scream, shout"	1028	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B8%D0%BA
+рот	"mouth"	1029	https://en.openrussian.org/ru/%D1%80%D0%BE%D1%82
+су́тки	"twenty-four hours"	1030	https://en.openrussian.org/ru/%D1%81%D1%83%D1%82%D0%BA%D0%B8
+ма́лый	"small"	1031	https://en.openrussian.org/ru/%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9
+ключ	"key"	1032	https://en.openrussian.org/ru/%D0%BA%D0%BB%D1%8E%D1%87
+звони́ть	"(phone) call"	1033	https://en.openrussian.org/ru/%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C
+проце́нт	"percentage"	1034	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82
+ощуще́ние	"feeling, sensation"	1035	https://en.openrussian.org/ru/%D0%BE%D1%89%D1%83%D1%89%D0%B5%D0%BD%D0%B8%D0%B5
+неме́дленно	"immediately"	1036	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE
+о́стров	"island"	1037	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2
+конь	"horse, knight (chess piece)"	1038	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%8C
+объяви́ть	"to declare, to announce"	1039	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%B8%D1%82%D1%8C
+у́зкий	"narrow"	1040	https://en.openrussian.org/ru/%D1%83%D0%B7%D0%BA%D0%B8%D0%B9
+теа́тр	"theatre"	1041	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%B0%D1%82%D1%80
+живо́т	"stomach"	1042	https://en.openrussian.org/ru/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82
+произво́дство	"production"	1043	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE
+штаб	"staff"	1044	https://en.openrussian.org/ru/%D1%88%D1%82%D0%B0%D0%B1
+де́тство	"childhood"	1045	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE
+ре́зко	"sharply, abruptly"	1046	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B7%D0%BA%D0%BE
+приду́мать	"think, come up (with)"	1047	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C
+бро́ситься	"throw oneself"	1048	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+со́тня	"a hundred"	1049	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%82%D0%BD%D1%8F
+попыта́ться	"to attempt"	1050	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+стака́н	"glass"	1051	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD
+у́мный	"smart"	1052	https://en.openrussian.org/ru/%D1%83%D0%BC%D0%BD%D1%8B%D0%B9
+тро́е	"three of ..."	1053	https://en.openrussian.org/ru/%D1%82%D1%80%D0%BE%D0%B5
+материа́л	"material"	1054	https://en.openrussian.org/ru/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB
+у́жас	"terror"	1055	https://en.openrussian.org/ru/%D1%83%D0%B6%D0%B0%D1%81
+схвати́ть	"grab"	1056	https://en.openrussian.org/ru/%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+приня́ться	"begin"	1057	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+значе́ние	"meaning, value"	1058	https://en.openrussian.org/ru/%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+труба́	"pipe, chimney, trumpet, horn"	1059	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D0%B1%D0%B0
+отказа́ться	"refuse"	1060	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+винова́тый	"guilty"	1061	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B9
+стих́	"poem"	1062	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B8%D1%85
+спо́соб	"way"	1063	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1
+обстоя́тельство	"circumstance"	1064	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE
+четвёртый	"fourth"	1065	https://en.openrussian.org/ru/%D1%87%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B9
+сте́пень	"degree, (mathematics) power"	1066	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C
+Герма́ния	"Germany"	1067	https://en.openrussian.org/ru/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+СССР	"USSR (Union of Soviet Socialist Republics)"	1068	https://en.openrussian.org/ru/%D0%A1%D0%A1%D0%A1%D0%A0
+отпра́виться	"to depart, send"	1069	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+встава́ть	"get up"	1070	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D1%82%D1%8C
+волна́	"wave"	1071	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%BB%D0%BD%D0%B0
+обрати́ться	"appeal to, convert, consult"	1072	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+плохо́й	"bad"	1073	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9
+мёртвый	"dead"	1074	https://en.openrussian.org/ru/%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B9
+предлага́ть	"suggest"	1075	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D1%8C
+глубина́	"depth, interior"	1076	https://en.openrussian.org/ru/%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0
+специа́льный	"special"	1077	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+представи́тель	"representative"	1078	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+нож	"knife"	1079	https://en.openrussian.org/ru/%D0%BD%D0%BE%D0%B6
+то́чный	"exact"	1080	https://en.openrussian.org/ru/%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9
+ры́нок	"market"	1081	https://en.openrussian.org/ru/%D1%80%D1%8B%D0%BD%D0%BE%D0%BA
+шум	"noise"	1082	https://en.openrussian.org/ru/%D1%88%D1%83%D0%BC
+студе́нт	"student"	1083	https://en.openrussian.org/ru/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82
+впечатле́ние	"impression"	1084	https://en.openrussian.org/ru/%D0%B2%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+засмея́ться	"begin to laugh"	1085	https://en.openrussian.org/ru/%D0%B7%D0%B0%D1%81%D0%BC%D0%B5%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+отде́л	"department"	1086	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B4%D0%B5%D0%BB
+за́пад	"west"	1087	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4
+очко́	"point, hole, glasses"	1088	https://en.openrussian.org/ru/%D0%BE%D1%87%D0%BA%D0%BE
+па́дать	"fall"	1089	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C
+зако́нчить	"finish"	1090	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%8C
+снима́ть	"to take off (clothes), to rent (apartment), to take a photograph, to take, to take away, to film"	1091	https://en.openrussian.org/ru/%D1%81%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C
+успе́х	"success"	1092	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BF%D0%B5%D1%85
+инжене́р	"engineer"	1093	https://en.openrussian.org/ru/%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80
+населе́ние	"population"	1094	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+живо́тный	"animal"	1095	https://en.openrussian.org/ru/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B9
+встреча́ться	"meet, rendez-vous, to date, to see"	1096	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+не́кий	"some"	1097	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BA%D0%B8%D0%B9
+вдоль	"along, alongside"	1098	https://en.openrussian.org/ru/%D0%B2%D0%B4%D0%BE%D0%BB%D1%8C
+пыль	"dust"	1099	https://en.openrussian.org/ru/%D0%BF%D1%8B%D0%BB%D1%8C
+следи́ть	"watch"	1100	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%82%D1%8C

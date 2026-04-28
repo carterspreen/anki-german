@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+самолёт	"aircraft"	601	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82
+тру́дно	"difficult"	602	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE
+улыбну́ться	"smile"	603	https://en.openrussian.org/ru/%D1%83%D0%BB%D1%8B%D0%B1%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+дере́вня	"village (small settlement), rural population"	604	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F
+карти́на	"picture"	605	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0
+улыба́ться	"smile"	606	https://en.openrussian.org/ru/%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+почу́вствовать	"feel"	607	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+бу́дущее	"the future"	608	https://en.openrussian.org/ru/%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5
+коридо́р	"corridor, hallway"	609	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%B8%D0%B4%D0%BE%D1%80
+то́лстый	"fat"	610	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BB%D1%81%D1%82%D1%8B%D0%B9
+нра́виться	"to like, to please"	611	https://en.openrussian.org/ru/%D0%BD%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+пра́вый	"right"	612	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B2%D1%8B%D0%B9
+больно́й	"sick"	613	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9
+ум	"mind"	614	https://en.openrussian.org/ru/%D1%83%D0%BC
+ме́нее	"less"	615	https://en.openrussian.org/ru/%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5
+привести́	"to bring (someone with), to lead (of a road), to result, (mathematics) to reduce, to quote"	616	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+предложи́ть	"suggest, offer, propose, order"	617	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C
+вы́звать	"to call, to challenge, to summon, to arouse"	618	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C
+кабине́т	"office, classroom"	619	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82
+мно́гие	"many"	620	https://en.openrussian.org/ru/%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5
+легко́	"lightly, easily"	621	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE
+коле́но	"knee"	622	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE
+хвата́ть	"be enough, grab, lack"	623	https://en.openrussian.org/ru/%D1%85%D0%B2%D0%B0%D1%82%D0%B0%D1%82%D1%8C
+принести́	"to bring (by foot), to yield, to offer (apologies, thanks, etc)"	624	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D0%B5%D1%81%D1%82%D0%B8
+вся́кий	"every type of"	625	https://en.openrussian.org/ru/%D0%B2%D1%81%D1%8F%D0%BA%D0%B8%D0%B9
+буты́лка	"bottle"	626	https://en.openrussian.org/ru/%D0%B1%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0
+госуда́рственный	"state, national, public"	627	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+рабо́чий	"working, working-class"	628	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9
+сто	"hundred"	629	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE
+телефо́н	"telephone"	630	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD
+компа́ния	"company"	631	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
+кру́пный	"large"	632	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9
+откры́тый	"open"	633	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9
+до́ктор	"doctor of Philosophy"	634	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80
+принима́ть	"take, to admit, to receive, to make"	635	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C
+вниз	"down"	636	https://en.openrussian.org/ru/%D0%B2%D0%BD%D0%B8%D0%B7
+а́втор	"author"	637	https://en.openrussian.org/ru/%D0%B0%D0%B2%D1%82%D0%BE%D1%80
+мужи́к	"guy, peasant"	638	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B6%D0%B8%D0%BA
+во́все	"at all"	639	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B2%D1%81%D0%B5
+интере́с	"interest"	640	https://en.openrussian.org/ru/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81
+провести́	"spend, conduct, lead, hold, make, run"	641	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+хвати́ть	"be enough, STOP"	642	https://en.openrussian.org/ru/%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C
+дво́е	"two"	643	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%BE%D0%B5
+холо́дный	"cold"	644	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9
+счёт	"bill, check, account, score, expense"	645	https://en.openrussian.org/ru/%D1%81%D1%87%D1%91%D1%82
+споко́йно	"quietly"	646	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE
+ме́стный	"local"	647	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9
+лейтена́нт	"lieutenant"	648	https://en.openrussian.org/ru/%D0%BB%D0%B5%D0%B9%D1%82%D0%B5%D0%BD%D0%B0%D0%BD%D1%82
+ору́жие	"weapon"	649	https://en.openrussian.org/ru/%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5
+игра́	"play"	650	https://en.openrussian.org/ru/%D0%B8%D0%B3%D1%80%D0%B0
+приходи́ться	"have to, happen to, relate to"	651	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+кри́кнуть	"shout"	652	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B8%D0%BA%D0%BD%D1%83%D1%82%D1%8C
+попроси́ть	"request"	653	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+тре́бовать	"demand, require, expect, summons"	654	https://en.openrussian.org/ru/%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+бой	"beating, battle, fight, striking (of a clock)"	655	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%B9
+ка́чество	"quality, as"	656	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+смея́ться	"laugh, laugh at, mock"	657	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%B5%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+родно́й	"native"	658	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9
+жёлтый	"yellow"	659	https://en.openrussian.org/ru/%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9
+член	"member, penis, limb"	660	https://en.openrussian.org/ru/%D1%87%D0%BB%D0%B5%D0%BD
+доста́точно	"it is enough, rather"	661	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%BE
+хлеб	"bread, corn"	662	https://en.openrussian.org/ru/%D1%85%D0%BB%D0%B5%D0%B1
+присла́ть	"send"	663	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D1%82%D1%8C
+золото́й	"gold"	664	https://en.openrussian.org/ru/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9
+полити́ческий	"political"	665	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+обы́чный	"usual, ordinary"	666	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9
+разви́тие	"development, growth"	667	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5
+ва́жный	"important"	668	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9
+банк	"bank (financial establishment)"	669	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%BD%D0%BA
+сове́т	"advice"	670	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%82
+сто́лько	"so much"	671	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE
+возвраща́ться	"return"	672	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+тру́бка	"tube, roll, telephone receiver, tobacco pipe, snorkel"	673	https://en.openrussian.org/ru/%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0
+ладо́нь	"palm (of the hand)"	674	https://en.openrussian.org/ru/%D0%BB%D0%B0%D0%B4%D0%BE%D0%BD%D1%8C
+желе́зный	"iron"	675	https://en.openrussian.org/ru/%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9
+ока́зываться	"turn out to be, be in some location"	676	https://en.openrussian.org/ru/%D0%BE%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+институ́т	"institute, institution"	677	https://en.openrussian.org/ru/%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82
+потеря́ть	"lose"	678	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C
+прави́тельство	"government, administration"	679	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE
+остально́й	"the rest of"	680	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9
+вы́пить	"drink, take a drink"	681	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%BF%D0%B8%D1%82%D1%8C
+пока́зывать	"show"	682	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+иде́я	"idea"	683	https://en.openrussian.org/ru/%D0%B8%D0%B4%D0%B5%D1%8F
+то́чка	"dot"	684	https://en.openrussian.org/ru/%D1%82%D0%BE%D1%87%D0%BA%D0%B0
+у́ровень	"level, Strength"	685	https://en.openrussian.org/ru/%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C
+профе́ссор	"professor"	686	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80
+нау́ка	"science"	687	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0
+собы́тие	"event"	688	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5
+сою́з	"union"	689	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%8E%D0%B7
+коро́ль	"king"	690	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C
+полови́на	"half"	691	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0
+метр	"metre"	692	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%82%D1%80
+отда́ть	"to give back, to give away, to send, to devote, to cast (anchor), to recoil (of a gun)"	693	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%B4%D0%B0%D1%82%D1%8C
+ве́ра	"faith"	694	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%80%D0%B0
+кивну́ть	"to nod, to motion"	695	https://en.openrussian.org/ru/%D0%BA%D0%B8%D0%B2%D0%BD%D1%83%D1%82%D1%8C
+о́бласть	"area, sphere"	696	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C
+исче́знуть	"disappear"	697	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%87%D0%B5%D0%B7%D0%BD%D1%83%D1%82%D1%8C
+ситуа́ция	"situation"	698	https://en.openrussian.org/ru/%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F
+ку́хня	"kitchen"	699	https://en.openrussian.org/ru/%D0%BA%D1%83%D1%85%D0%BD%D1%8F
+наде́жда	"hope"	700	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0

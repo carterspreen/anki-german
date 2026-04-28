@@ -1,0 +1,101 @@
+#separator:Tab
+#tags column:16
+и	"and, also"	1	https://en.openrussian.org/ru/%D0%B8
+в	"in, to"	2	https://en.openrussian.org/ru/%D0%B2
+не	"not"	3	https://en.openrussian.org/ru/%D0%BD%D0%B5
+на	"on (place), on (day/week), on (means of transport), to (direction), onto, at (location), for"	4	https://en.openrussian.org/ru/%D0%BD%D0%B0
+что	"what, that"	5	https://en.openrussian.org/ru/%D1%87%D1%82%D0%BE
+тот	"that"	6	https://en.openrussian.org/ru/%D1%82%D0%BE%D1%82
+быть	"to be, (present tense) 'есть'  - there is, has been"	7	https://en.openrussian.org/ru/%D0%B1%D1%8B%D1%82%D1%8C
+с	"with, from, since, off, against"	8	https://en.openrussian.org/ru/%D1%81
+а	"and, but, oh"	9	https://en.openrussian.org/ru/%D0%B0
+весь	"all, all gone (no more left), whole / entire"	10	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%81%D1%8C
+как	"how, what, like"	11	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BA
+по	"along, about, by the means of, hit or punch somewhere, after a certain age, to (indicating to the end or limit of an object), on the subject of"	12	https://en.openrussian.org/ru/%D0%BF%D0%BE
+э́то	"this is, that is, it"	13	https://en.openrussian.org/ru/%D1%8D%D1%82%D0%BE
+но	"but"	14	https://en.openrussian.org/ru/%D0%BD%D0%BE
+к	"towards, to"	15	https://en.openrussian.org/ru/%D0%BA
+у	"(possession), by, with, from (take, borrow)"	16	https://en.openrussian.org/ru/%D1%83
+из	"from (the inside of), out of"	17	https://en.openrussian.org/ru/%D0%B8%D0%B7
+за	"behind, at (location), at (direction), for (in support of), for (mistake for), for (reason), following after, over (a certain age), beyond, out of (location), for (duration)"	18	https://en.openrussian.org/ru/%D0%B7%D0%B0
+так	"so, exactly how"	19	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BA
+же	"same"	20	https://en.openrussian.org/ru/%D0%B6%D0%B5
+сказа́ть	"to say"	21	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C
+от	"from (away), from (part of a whole), from (cause), from (distance), from (someone), from (range), for, of"	22	https://en.openrussian.org/ru/%D0%BE%D1%82
+э́тот	"this"	23	https://en.openrussian.org/ru/%D1%8D%D1%82%D0%BE%D1%82
+кото́рый	"which, who"	24	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9
+мочь	"be able, may"	25	https://en.openrussian.org/ru/%D0%BC%D0%BE%D1%87%D1%8C
+о	"about, of, on, against"	26	https://en.openrussian.org/ru/%D0%BE
+челове́к	"person, man"	27	https://en.openrussian.org/ru/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA
+ещё	"still, yet"	28	https://en.openrussian.org/ru/%D0%B5%D1%89%D1%91
+бы	"would (be able to)"	29	https://en.openrussian.org/ru/%D0%B1%D1%8B
+тако́й	"such, be like this"	30	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BA%D0%BE%D0%B9
+то́лько	"only, just"	31	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE
+себя́	"oneself"	32	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B1%D1%8F
+како́й	"which"	33	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9
+для	"for (the benefit of), to"	34	https://en.openrussian.org/ru/%D0%B4%D0%BB%D1%8F
+уже́	"already"	35	https://en.openrussian.org/ru/%D1%83%D0%B6%D0%B5
+когда́	"when"	36	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0
+кто	"who"	37	https://en.openrussian.org/ru/%D0%BA%D1%82%D0%BE
+вот	"here"	38	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%82
+да	"yes, but, and"	39	https://en.openrussian.org/ru/%D0%B4%D0%B0
+год	"year"	40	https://en.openrussian.org/ru/%D0%B3%D0%BE%D0%B4
+знать	"know"	41	https://en.openrussian.org/ru/%D0%B7%D0%BD%D0%B0%D1%82%D1%8C
+е́сли	"if, subject to"	42	https://en.openrussian.org/ru/%D0%B5%D1%81%D0%BB%D0%B8
+до	"to (direction), to (distance), before, until, up to (limit)"	43	https://en.openrussian.org/ru/%D0%B4%D0%BE
+говори́ть	"speak, suggest"	44	https://en.openrussian.org/ru/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C
+и́ли	"or"	45	https://en.openrussian.org/ru/%D0%B8%D0%BB%D0%B8
+мой	"my"	46	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B9
+вре́мя	"time"	47	https://en.openrussian.org/ru/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F
+рука́	"hand, arm, handwriting"	48	https://en.openrussian.org/ru/%D1%80%D1%83%D0%BA%D0%B0
+са́мый	"the most, the very (same)"	49	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%BC%D1%8B%D0%B9
+нет	"no, not, not any"	50	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%82
+ни	"neither, no"	51	https://en.openrussian.org/ru/%D0%BD%D0%B8
+стать	"to become, to begin to, to become, to take to"	52	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%82%D1%8C
+большо́й	"big"	53	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9
+да́же	"even"	54	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%B6%D0%B5
+друго́й	"other"	55	https://en.openrussian.org/ru/%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9
+свой	"one's own (reflexive)"	56	https://en.openrussian.org/ru/%D1%81%D0%B2%D0%BE%D0%B9
+де́ло	"business, matter, thing, art"	57	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%BB%D0%BE
+под	"under, below, underneath, to go down/below, to go/put under something, (impression, affection), over"	58	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4
+где	"where"	59	https://en.openrussian.org/ru/%D0%B3%D0%B4%D0%B5
+что́бы	"so that, in order to"	60	https://en.openrussian.org/ru/%D1%87%D1%82%D0%BE%D0%B1%D1%8B
+ну	"well"	61	https://en.openrussian.org/ru/%D0%BD%D1%83
+сам	"ourselves"	62	https://en.openrussian.org/ru/%D1%81%D0%B0%D0%BC
+есть	"there is"	63	https://en.openrussian.org/ru/%D0%B5%D1%81%D1%82%D1%8C
+раз	"time, one, once, since"	64	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7
+чём	"Prepositional of 'что'"	65	https://en.openrussian.org/ru/%D1%87%D1%91%D0%BC
+там	"there"	66	https://en.openrussian.org/ru/%D1%82%D0%B0%D0%BC
+глаз	"eye"	67	https://en.openrussian.org/ru/%D0%B3%D0%BB%D0%B0%D0%B7
+пе́рвый	"first"	68	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9
+день	"day, afternoon"	69	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%BD%D1%8C
+жизнь	"life"	70	https://en.openrussian.org/ru/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C
+тут	"here, now"	71	https://en.openrussian.org/ru/%D1%82%D1%83%D1%82
+ничто́	"nothing"	72	https://en.openrussian.org/ru/%D0%BD%D0%B8%D1%87%D1%82%D0%BE
+пото́м	"afterwards"	73	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%82%D0%BE%D0%BC
+о́чень	"very"	74	https://en.openrussian.org/ru/%D0%BE%D1%87%D0%B5%D0%BD%D1%8C
+ли	"whether"	75	https://en.openrussian.org/ru/%D0%BB%D0%B8
+при	"at, with, in the presence of, in the time of, (circumstantial)"	76	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8
+хоте́ть	"want, to feel like, mean"	77	https://en.openrussian.org/ru/%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C
+на́до	"need, it is necessary"	78	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B4%D0%BE
+голова́	"head"	79	https://en.openrussian.org/ru/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0
+без	"without, to (time)"	80	https://en.openrussian.org/ru/%D0%B1%D0%B5%D0%B7
+ви́деть	"see"	81	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C
+тепе́рь	"now"	82	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C
+идти́	"go, be"	84	https://en.openrussian.org/ru/%D0%B8%D0%B4%D1%82%D0%B8
+друг	"friend"	85	https://en.openrussian.org/ru/%D0%B4%D1%80%D1%83%D0%B3
+сейча́с	"now, soon, at once"	86	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81
+стоя́ть	"to stand (in a vertical position), block"	87	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D1%8F%D1%82%D1%8C
+дом	"house"	88	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BC
+то́же	"also"	89	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%B6%D0%B5
+по́сле	"after"	90	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5
+мо́жно	"one can (it is possible), one may (it is allowed)"	91	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE
+сло́во	"word, speech, promise"	92	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%BE
+че́рез	"across, through, through, in (time) (no more than)"	93	https://en.openrussian.org/ru/%D1%87%D0%B5%D1%80%D0%B5%D0%B7
+ме́сто	"place, region, site, room, job, piece of luggage"	94	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%81%D1%82%D0%BE
+ду́мать	"think"	95	https://en.openrussian.org/ru/%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C
+здесь	"here"	96	https://en.openrussian.org/ru/%D0%B7%D0%B4%D0%B5%D1%81%D1%8C
+спроси́ть	"ask"	97	https://en.openrussian.org/ru/%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+лицо́	"face, entity, first-person (view)"	98	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%86%D0%BE
+тогда́	"then"	99	https://en.openrussian.org/ru/%D1%82%D0%BE%D0%B3%D0%B4%D0%B0
+до́лжный	"should"	100	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%D0%B9

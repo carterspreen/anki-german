@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+блестя́щий	"shining"	1801	https://en.openrussian.org/ru/%D0%B1%D0%BB%D0%B5%D1%81%D1%82%D1%8F%D1%89%D0%B8%D0%B9
+содержа́ние	"content, maintenance"	1802	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5
+ра́зница	"difference"	1803	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0
+непоня́тный	"incomprehensible"	1804	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D1%8B%D0%B9
+оста́ток	"remainder"	1805	https://en.openrussian.org/ru/%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA
+расчёт	"calculation, settlement of accounts, dismissal"	1806	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%87%D1%91%D1%82
+приближа́ться	"approach"	1807	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+чи́сто	"it is clean, purely"	1808	https://en.openrussian.org/ru/%D1%87%D0%B8%D1%81%D1%82%D0%BE
+уча́ствовать	"participate"	1809	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+восто́чный	"east"	1810	https://en.openrussian.org/ru/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9
+лови́ть	"catch"	1811	https://en.openrussian.org/ru/%D0%BB%D0%BE%D0%B2%D0%B8%D1%82%D1%8C
+температу́ра	"temperature"	1812	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0
+респу́блика	"republic"	1813	https://en.openrussian.org/ru/%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0
+по́яс	"belt, zone"	1814	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%8F%D1%81
+удивля́ться	"to be surprised"	1815	https://en.openrussian.org/ru/%D1%83%D0%B4%D0%B8%D0%B2%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+сомнева́ться	"to doubt"	1816	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BC%D0%BD%D0%B5%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+лу́чше	"better"	1817	https://en.openrussian.org/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B5
+шёпот	"whisper"	1818	https://en.openrussian.org/ru/%D1%88%D1%91%D0%BF%D0%BE%D1%82
+сентя́брь	"September"	1819	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C
+диви́зия	"division"	1820	https://en.openrussian.org/ru/%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F
+гриб	"mushroom"	1821	https://en.openrussian.org/ru/%D0%B3%D1%80%D0%B8%D0%B1
+сравне́ние	"comparison"	1822	https://en.openrussian.org/ru/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+стро́гий	"strict"	1823	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D0%B9
+замере́ть	"Freeze / stand still"	1824	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%D1%82%D1%8C
+ба́бка	"grandmother, money"	1825	https://en.openrussian.org/ru/%D0%B1%D0%B0%D0%B1%D0%BA%D0%B0
+гражда́нский	"civil"	1826	https://en.openrussian.org/ru/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9
+записа́ть	"write down"	1827	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C
+реа́кция	"reaction"	1828	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F
+тоска́	"melancholy"	1829	https://en.openrussian.org/ru/%D1%82%D0%BE%D1%81%D0%BA%D0%B0
+посёлок	"small town / village, settlement"	1830	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA
+полчаса́	"half an hour"	1831	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BB%D1%87%D0%B0%D1%81%D0%B0
+кольцо́	"ring"	1832	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE
+досто́инство	"dignity, virtue"	1833	https://en.openrussian.org/ru/%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE
+двена́дцать	"twelve"	1834	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C
+ра́доваться	"rejoice"	1835	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+вы́вести	"take out"	1836	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+создава́ть	"create"	1837	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C
+слой	"layer"	1838	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%BE%D0%B9
+подари́ть	"give"	1839	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C
+оттого́	"that is why"	1840	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%82%D0%BE%D0%B3%D0%BE
+страсть	"passion, strong love between people, religion"	1841	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D1%8C
+ро́вно	"evenly (equally, regularly), exactly"	1842	https://en.openrussian.org/ru/%D1%80%D0%BE%D0%B2%D0%BD%D0%BE
+напряже́ние	"tension / tenseness, voltage, strain"	1843	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+столо́вый	"table, canteen"	1844	https://en.openrussian.org/ru/%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9
+сты́дный	"shameful"	1845	https://en.openrussian.org/ru/%D1%81%D1%82%D1%8B%D0%B4%D0%BD%D1%8B%D0%B9
+коммуни́ст	"communist"	1846	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82
+гля́нуть	"glance"	1847	https://en.openrussian.org/ru/%D0%B3%D0%BB%D1%8F%D0%BD%D1%83%D1%82%D1%8C
+уча́стник	"participant"	1848	https://en.openrussian.org/ru/%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA
+подру́га	"friend (female), girlfriend"	1849	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0
+изба́	"cottage"	1850	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%B1%D0%B0
+го́лод	"hunger"	1851	https://en.openrussian.org/ru/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4
+замеча́тельный	"remarkable"	1852	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+вре́менный	"temporary"	1853	https://en.openrussian.org/ru/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+пёс	"(male) dog"	1854	https://en.openrussian.org/ru/%D0%BF%D1%91%D1%81
+замести́тель	"deputy, substitute"	1855	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+и́стина	"truth"	1856	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0
+коло́нна	"column"	1857	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0
+мгнове́нно	"instantly"	1858	https://en.openrussian.org/ru/%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE
+прикры́ть	"cover"	1859	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BA%D1%80%D1%8B%D1%82%D1%8C
+оборо́на	"defence"	1860	https://en.openrussian.org/ru/%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0
+скрыва́ть	"hide"	1861	https://en.openrussian.org/ru/%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C
+поступа́ть	"act, enter"	1862	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%82%D1%8C
+порази́ть	"strike, amaze"	1863	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D1%8C
+везти́	"to transport someone/something (by vehicle), to be lucky"	1864	https://en.openrussian.org/ru/%D0%B2%D0%B5%D0%B7%D1%82%D0%B8
+предстоя́ть	"to remain"	1865	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%BE%D1%8F%D1%82%D1%8C
+элеме́нт	"element"	1866	https://en.openrussian.org/ru/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82
+пиджа́к	"jacket"	1867	https://en.openrussian.org/ru/%D0%BF%D0%B8%D0%B4%D0%B6%D0%B0%D0%BA
+приноси́ть	"bring"	1868	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C
+убеди́ться	"make sure, Verify"	1869	https://en.openrussian.org/ru/%D1%83%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+телефо́нный	"telephone"	1870	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9
+крыльцо́	"porch"	1871	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%8B%D0%BB%D1%8C%D1%86%D0%BE
+отли́чие	"difference"	1872	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5
+брю́ки	"trousers"	1873	https://en.openrussian.org/ru/%D0%B1%D1%80%D1%8E%D0%BA%D0%B8
+иссле́дование	"research"	1874	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+о́рден	"order"	1875	https://en.openrussian.org/ru/%D0%BE%D1%80%D0%B4%D0%B5%D0%BD
+ю́ный	"youthful"	1876	https://en.openrussian.org/ru/%D1%8E%D0%BD%D1%8B%D0%B9
+научи́ться	"learn"	1877	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+те́хника	"technics, electronics"	1878	https://en.openrussian.org/ru/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0
+сойти́	"descend, to lose"	1879	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B9%D1%82%D0%B8
+кана́л	"canal, channel"	1880	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB
+девчо́нка	"girl"	1881	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B2%D1%87%D0%BE%D0%BD%D0%BA%D0%B0
+го́рький	"bitter, miserable"	1882	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9
+крест	"cross"	1883	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B5%D1%81%D1%82
+печа́льный	"sad"	1884	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+тео́рия	"theory"	1885	https://en.openrussian.org/ru/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F
+луч	"ray"	1886	https://en.openrussian.org/ru/%D0%BB%D1%83%D1%87
+молча́ние	"silence"	1887	https://en.openrussian.org/ru/%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D0%B5
+литерату́рный	"literary"	1888	https://en.openrussian.org/ru/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9
+батаре́я	"battery, radiator"	1889	https://en.openrussian.org/ru/%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F
+устро́йство	"device"	1890	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE
+па́лка	"stick"	1891	https://en.openrussian.org/ru/%D0%BF%D0%B0%D0%BB%D0%BA%D0%B0
+тащи́ть	"Carry something heavy, to drag, to pull"	1892	https://en.openrussian.org/ru/%D1%82%D0%B0%D1%89%D0%B8%D1%82%D1%8C
+фона́рь	"lantern"	1893	https://en.openrussian.org/ru/%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D1%8C
+лесно́й	"(relational) forest, (relational) timber (BE) / lumber (AE)"	1894	https://en.openrussian.org/ru/%D0%BB%D0%B5%D1%81%D0%BD%D0%BE%D0%B9
+есте́ственный	"natural"	1895	https://en.openrussian.org/ru/%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+контро́ль	"control"	1896	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C
+круто́й	"cool, awesome, badass"	1897	https://en.openrussian.org/ru/%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9
+произвести́	"produce, execute"	1898	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8
+про́клятый	"cursed"	1899	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9
+прокля́тый	"cursed"	1900	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9

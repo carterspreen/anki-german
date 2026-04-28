@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+посети́тель	"visitor"	2901	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C
+переме́на	"change, intermission"	2902	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0
+дереве́нский	"rural"	2903	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9
+хохота́ть	"laugh"	2904	https://en.openrussian.org/ru/%D1%85%D0%BE%D1%85%D0%BE%D1%82%D0%B0%D1%82%D1%8C
+ки́нуться	"rush"	2905	https://en.openrussian.org/ru/%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+неподалёку	"nearby"	2906	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%BB%D1%91%D0%BA%D1%83
+исходи́ть	"issue"	2907	https://en.openrussian.org/ru/%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+ла́сково	"affectionately, sweetly"	2908	https://en.openrussian.org/ru/%D0%BB%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%BE
+плита́	"stove"	2909	https://en.openrussian.org/ru/%D0%BF%D0%BB%D0%B8%D1%82%D0%B0
+испыта́ть	"try, experience"	2910	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D1%8C
+смени́ть	"change"	2911	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C
+разойти́сь	"diverge"	2912	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%BE%D0%B9%D1%82%D0%B8%D1%81%D1%8C
+Кита́й	"China"	2913	https://en.openrussian.org/ru/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9
+соба́чий	"Adjective of собака"	2914	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%B9
+окружа́ющее	"Environment, other"	2915	https://en.openrussian.org/ru/%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B5%D0%B5
+карти́нка	"picture"	2916	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0
+серди́то	"angrily"	2917	https://en.openrussian.org/ru/%D1%81%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D0%BE
+комба́т	"battalion commander"	2918	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D1%82
+предупрежда́ть	"to warn, to forestall, to avert"	2919	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%BF%D1%80%D0%B5%D0%B6%D0%B4%D0%B0%D1%82%D1%8C
+рассмея́ться	"begin to laugh"	2920	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D0%BC%D0%B5%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+вдвоём	"you and me"	2921	https://en.openrussian.org/ru/%D0%B2%D0%B4%D0%B2%D0%BE%D1%91%D0%BC
+коллекти́в	"collective"	2922	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2
+чте́ние	"reading"	2923	https://en.openrussian.org/ru/%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5
+объём	"volume"	2924	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%8A%D1%91%D0%BC
+исполне́ние	"fulfilment"	2925	https://en.openrussian.org/ru/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5
+три́ста	"three hundred"	2926	https://en.openrussian.org/ru/%D1%82%D1%80%D0%B8%D1%81%D1%82%D0%B0
+парохо́д	"steamer"	2927	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%80%D0%BE%D1%85%D0%BE%D0%B4
+по́двиг	"exploit"	2928	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3
+проду́кция	"production"	2929	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F
+возде́йствие	"influence, effect"	2930	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+кирпи́ч	"brick"	2931	https://en.openrussian.org/ru/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87
+копе́йка	"copeck, penny"	2932	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%BF%D0%B5%D0%B9%D0%BA%D0%B0
+стально́й	"steel"	2933	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9
+наказа́ние	"punishment"	2934	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5
+гото́вность	"readiness"	2935	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+уголо́к	"corner"	2936	https://en.openrussian.org/ru/%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA
+устано́вка	"installation / set-up, aim, plant / device"	2937	https://en.openrussian.org/ru/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
+федера́ция	"federation"	2938	https://en.openrussian.org/ru/%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F
+жи́рный	"fat"	2939	https://en.openrussian.org/ru/%D0%B6%D0%B8%D1%80%D0%BD%D1%8B%D0%B9
+слуга́	"servant"	2940	https://en.openrussian.org/ru/%D1%81%D0%BB%D1%83%D0%B3%D0%B0
+спосо́бствовать	"promote further"	2941	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+ва́нный	"(relational) bath"	2942	https://en.openrussian.org/ru/%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9
+по́дпись	"signature"	2943	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C
+сохрани́ться	"to preserve"	2944	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+сбор	"collection, assemblage, dues, picking"	2945	https://en.openrussian.org/ru/%D1%81%D0%B1%D0%BE%D1%80
+горди́ться	"be proud"	2946	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+отка́з	"refusal"	2947	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D0%B0%D0%B7
+мета́лл	"metal"	2948	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB
+рисова́ть	"draw"	2949	https://en.openrussian.org/ru/%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C
+пеще́ра	"cave"	2950	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0
+тротуа́р	"pavement"	2951	https://en.openrussian.org/ru/%D1%82%D1%80%D0%BE%D1%82%D1%83%D0%B0%D1%80
+ата́ка	"attack"	2952	https://en.openrussian.org/ru/%D0%B0%D1%82%D0%B0%D0%BA%D0%B0
+решётка	"Prison bars, array"	2953	https://en.openrussian.org/ru/%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D0%B0
+подзе́мный	"underground"	2954	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9
+бо́жий	"god's"	2955	https://en.openrussian.org/ru/%D0%B1%D0%BE%D0%B6%D0%B8%D0%B9
+переу́лок	"side-street / alley"	2956	https://en.openrussian.org/ru/%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA
+препара́т	"medication, Drug"	2957	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82
+спаса́ть	"save"	2958	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D1%8C
+совеща́ние	"conference"	2959	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5
+понача́лу	"at first"	2960	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83
+нужда́	"need"	2961	https://en.openrussian.org/ru/%D0%BD%D1%83%D0%B6%D0%B4%D0%B0
+тыл	"back"	2962	https://en.openrussian.org/ru/%D1%82%D1%8B%D0%BB
+рассужда́ть	"reason, ponder"	2963	https://en.openrussian.org/ru/%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%B6%D0%B4%D0%B0%D1%82%D1%8C
+отчё́тливо	"clearly"	2964	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BB%D0%B8%D0%B2%D0%BE
+бра́ться	"to take on"	2965	https://en.openrussian.org/ru/%D0%B1%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+помеша́ть	"stir, prevent, disturb"	2966	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D1%8C
+нести́сь	"lay eggs, rush"	2967	https://en.openrussian.org/ru/%D0%BD%D0%B5%D1%81%D1%82%D0%B8%D1%81%D1%8C
+наря́д	"outfit, order"	2968	https://en.openrussian.org/ru/%D0%BD%D0%B0%D1%80%D1%8F%D0%B4
+сове́тник	"adviser"	2969	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D0%BA
+гимнастёрка	"female gymnast"	2970	https://en.openrussian.org/ru/%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D1%91%D1%80%D0%BA%D0%B0
+очну́ться	"wake"	2971	https://en.openrussian.org/ru/%D0%BE%D1%87%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F
+догна́ть	"catch up"	2972	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B3%D0%BD%D0%B0%D1%82%D1%8C
+жа́лость	"pity"	2973	https://en.openrussian.org/ru/%D0%B6%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C
+ча́шка	"cup"	2974	https://en.openrussian.org/ru/%D1%87%D0%B0%D1%88%D0%BA%D0%B0
+ра́достный	"glad"	2975	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9
+люк	"hatchway"	2976	https://en.openrussian.org/ru/%D0%BB%D1%8E%D0%BA
+шагну́ть	"to take a step"	2977	https://en.openrussian.org/ru/%D1%88%D0%B0%D0%B3%D0%BD%D1%83%D1%82%D1%8C
+музыка́льный	"musical"	2978	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+носо́к	"sock"	2979	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%81%D0%BE%D0%BA
+спорт	"sport"	2980	https://en.openrussian.org/ru/%D1%81%D0%BF%D0%BE%D1%80%D1%82
+окруже́ние	"environment, encirclement (milit.)"	2981	https://en.openrussian.org/ru/%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+аре́ст	"arrest"	2982	https://en.openrussian.org/ru/%D0%B0%D1%80%D0%B5%D1%81%D1%82
+операти́вный	"efficient, squad"	2983	https://en.openrussian.org/ru/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9
+прочь	"away /  off, not be averse to (to consider)"	2984	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%87%D1%8C
+великоле́пный	"splendid"	2985	https://en.openrussian.org/ru/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D0%BD%D1%8B%D0%B9
+флот	"fleet, Navy"	2986	https://en.openrussian.org/ru/%D1%84%D0%BB%D0%BE%D1%82
+нало́г	"tax"	2987	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3
+сорва́ться	"break loose"	2988	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+слепо́й	"blind"	2989	https://en.openrussian.org/ru/%D1%81%D0%BB%D0%B5%D0%BF%D0%BE%D0%B9
+демокра́тия	"democracy"	2990	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F
+вы́делить	"allocate, highlight"	2991	https://en.openrussian.org/ru/%D0%B2%D1%8B%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C
+приёмный	"receiving"	2992	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D1%8B%D0%B9
+подходя́щий	"suitable"	2993	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B9
+оле́нь	"deer, Dumbass"	2994	https://en.openrussian.org/ru/%D0%BE%D0%BB%D0%B5%D0%BD%D1%8C
+тури́ст	"tourist"	2995	https://en.openrussian.org/ru/%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82
+изобража́ть	"depict"	2996	https://en.openrussian.org/ru/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B0%D1%82%D1%8C
+заложи́ть	"pawn, lay, mortgage, rat-out, plant"	2997	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C
+эффе́кт	"effect"	2998	https://en.openrussian.org/ru/%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82
+тихо́нько	"(very) quietly, (very) calmly, (very) slowly"	2999	https://en.openrussian.org/ru/%D1%82%D0%B8%D1%85%D0%BE%D0%BD%D1%8C%D0%BA%D0%BE
+отыска́ть	"to find (by searching), to track down / to look for"	3000	https://en.openrussian.org/ru/%D0%BE%D1%82%D1%8B%D1%81%D0%BA%D0%B0%D1%82%D1%8C

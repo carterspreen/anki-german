@@ -1,0 +1,102 @@
+#separator:Tab
+#tags column:16
+газе́та	"newspaper"	401	https://en.openrussian.org/ru/%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0
+дли́нный	"long, (colloquial, ironic) tall, (short form only) too long"	402	https://en.openrussian.org/ru/%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9
+ви́дно	"evidently, it is visible, one is outstanding"	403	https://en.openrussian.org/ru/%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE
+про́тив	"against"	404	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2
+ве́рить	"to believe, to believe in"	405	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C
+чу́вство	"sense, feeling"	406	https://en.openrussian.org/ru/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE
+поря́док	"order of magnitude, order, order, order, (plural) customs"	407	https://en.openrussian.org/ru/%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA
+семья́	"family"	408	https://en.openrussian.org/ru/%D1%81%D0%B5%D0%BC%D1%8C%D1%8F
+а́рмия	"army"	409	https://en.openrussian.org/ru/%D0%B0%D1%80%D0%BC%D0%B8%D1%8F
+немно́го	"a little"	410	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE
+игра́ть	"to play, to act, to gamble, (storm) to rage, (wine) to sparkle"	411	https://en.openrussian.org/ru/%D0%B8%D0%B3%D1%80%D0%B0%D1%82%D1%8C
+возмо́жность	"opportunity, possibility"	412	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+си́льный	"strong"	413	https://en.openrussian.org/ru/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+ра́зве	"perhaps, indeed"	414	https://en.openrussian.org/ru/%D1%80%D0%B0%D0%B7%D0%B2%D0%B5
+впро́чем	"however, by the way"	415	https://en.openrussian.org/ru/%D0%B2%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC
+станови́ться	"to stand, to become"	416	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+движе́ние	"movement, traffic"	417	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+муж	"husband"	418	https://en.openrussian.org/ru/%D0%BC%D1%83%D0%B6
+нос	"nose, bow of a ship"	419	https://en.openrussian.org/ru/%D0%BD%D0%BE%D1%81
+ти́хо	"quietly, calmly, slowly"	420	https://en.openrussian.org/ru/%D1%82%D0%B8%D1%85%D0%BE
+знако́мый	"acquainted, familiar (with)"	421	https://en.openrussian.org/ru/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B9
+ого́нь	"fire, flame / light"	422	https://en.openrussian.org/ru/%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C
+двор	"courtyard"	423	https://en.openrussian.org/ru/%D0%B4%D0%B2%D0%BE%D1%80
+смочь	"be able"	424	https://en.openrussian.org/ru/%D1%81%D0%BC%D0%BE%D1%87%D1%8C
+ино́й	"different"	425	https://en.openrussian.org/ru/%D0%B8%D0%BD%D0%BE%D0%B9
+бежа́ть	"run"	426	https://en.openrussian.org/ru/%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C
+ско́рый	"quick"	427	https://en.openrussian.org/ru/%D1%81%D0%BA%D0%BE%D1%80%D1%8B%D0%B9
+наве́рное	"probably, for sure"	428	https://en.openrussian.org/ru/%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5
+прие́хать	"arrive, go"	429	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%B5%D1%85%D0%B0%D1%82%D1%8C
+просто́й	"simple, basic, (mathematics) prime"	430	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9
+приня́ть	"to take, to accept, to receive, take part"	431	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D1%8C
+у́гол	"corner"	432	https://en.openrussian.org/ru/%D1%83%D0%B3%D0%BE%D0%BB
+смысл	"meaning"	433	https://en.openrussian.org/ru/%D1%81%D0%BC%D1%8B%D1%81%D0%BB
+откры́ть	"to open, to disclose / to reveal, to discover"	434	https://en.openrussian.org/ru/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C
+о́бщество	"society, life, community, association"	435	https://en.openrussian.org/ru/%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+грудь	"breast"	436	https://en.openrussian.org/ru/%D0%B3%D1%80%D1%83%D0%B4%D1%8C
+вое́нный	"(relational) war, military"	437	https://en.openrussian.org/ru/%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+происходи́ть	"to happen, to derive, to arise"	438	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+де́рево	"tree"	439	https://en.openrussian.org/ru/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE
+не́мец	"German, German man"	440	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86
+губа́	"lip"	441	https://en.openrussian.org/ru/%D0%B3%D1%83%D0%B1%D0%B0
+снег	"snow"	442	https://en.openrussian.org/ru/%D1%81%D0%BD%D0%B5%D0%B3
+ли́бо	"or, either...or (in terms like 'либо .., либо'), any- / some- (in words combined with '-либо')"	443	https://en.openrussian.org/ru/%D0%BB%D0%B8%D0%B1%D0%BE
+дя́дя	"uncle"	444	https://en.openrussian.org/ru/%D0%B4%D1%8F%D0%B4%D1%8F
+е́хать	"to go (by horse or vehicle), to travel, to move (from a place)"	445	https://en.openrussian.org/ru/%D0%B5%D1%85%D0%B0%D1%82%D1%8C
+о́чередь	"queue, turn, phase"	446	https://en.openrussian.org/ru/%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C
+кой	"which, any"	447	https://en.openrussian.org/ru/%D0%BA%D0%BE%D0%B9
+фо́рма	"form, form (document), form, mold, model, uniform (sports, military)"	448	https://en.openrussian.org/ru/%D1%84%D0%BE%D1%80%D0%BC%D0%B0
+зако́н	"law, rule"	449	https://en.openrussian.org/ru/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD
+собира́ться	"to gather, to be going (leaving) to, to get ready"	450	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+показа́ться	"to appear, to show up, to seem"	451	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+соба́ка	"dog, the at (@) sign"	452	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0
+домо́й	"homeward"	453	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%BC%D0%BE%D0%B9
+попа́сть	"to get, to hit (a target)"	454	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C
+услы́шать	"to hear"	455	https://en.openrussian.org/ru/%D1%83%D1%81%D0%BB%D1%8B%D1%88%D0%B0%D1%82%D1%8C
+приходи́ть	"to arrive"	456	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C
+крича́ть	"to shout"	457	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B8%D1%87%D0%B0%D1%82%D1%8C
+состоя́ние	"condition, fortune"	458	https://en.openrussian.org/ru/%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5
+произойти́	"to happen, to derive, to spring, had"	459	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BE%D0%B9%D1%82%D0%B8
+сон	"dream, sleep"	460	https://en.openrussian.org/ru/%D1%81%D0%BE%D0%BD
+подня́ться	"to climb"	461	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F
+ла́дно	"well"	462	https://en.openrussian.org/ru/%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE
+карма́н	"pocket"	463	https://en.openrussian.org/ru/%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%D0%BD
+ча́сто	"often, closely together"	464	https://en.openrussian.org/ru/%D1%87%D0%B0%D1%81%D1%82%D0%BE
+случи́ться	"to happen, to come about (с + instrumental)"	465	https://en.openrussian.org/ru/%D1%81%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F
+зелёный	"green"	466	https://en.openrussian.org/ru/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9
+де́вочка	"girl"	467	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0
+ка́мень	"stone"	468	https://en.openrussian.org/ru/%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C
+снача́ла	"firstly"	469	https://en.openrussian.org/ru/%D1%81%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0
+ве́тер	"wind"	470	https://en.openrussian.org/ru/%D0%B2%D0%B5%D1%82%D0%B5%D1%80
+пробле́ма	"problem"	471	https://en.openrussian.org/ru/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0
+связь	"connection, communication"	472	https://en.openrussian.org/ru/%D1%81%D0%B2%D1%8F%D0%B7%D1%8C
+стара́ться	"try hard, strive"	473	https://en.openrussian.org/ru/%D1%81%D1%82%D0%B0%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F
+гость	"visitor"	474	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%81%D1%82%D1%8C
+лу́чший	"better"	475	https://en.openrussian.org/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9
+зуб	"tooth, plural: teeth"	476	https://en.openrussian.org/ru/%D0%B7%D1%83%D0%B1
+ме́ра	"measure"	477	https://en.openrussian.org/ru/%D0%BC%D0%B5%D1%80%D0%B0
+век	"century, age / epoch"	478	https://en.openrussian.org/ru/%D0%B2%D0%B5%D0%BA
+пое́хать	"to go somewhere (in a vehicle), to go for a ride"	479	https://en.openrussian.org/ru/%D0%BF%D0%BE%D0%B5%D1%85%D0%B0%D1%82%D1%8C
+но́мер	"number"	480	https://en.openrussian.org/ru/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80
+стра́нный	"strange"	481	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9
+стра́шный	"terrible"	482	https://en.openrussian.org/ru/%D1%81%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9
+сре́дство	"way, resource, tool"	483	https://en.openrussian.org/ru/%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE
+еди́нственный	"only"	484	https://en.openrussian.org/ru/%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9
+де́йствие	"action, effect, efficacy"	485	https://en.openrussian.org/ru/%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+ход	"motion, entrance, move"	486	https://en.openrussian.org/ru/%D1%85%D0%BE%D0%B4
+госуда́рство	"State, commonwealth"	487	https://en.openrussian.org/ru/%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE
+росси́йский	"Russian"	488	https://en.openrussian.org/ru/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9
+коро́ткий	"short"	489	https://en.openrussian.org/ru/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9
+уме́ть	"can (do), to know how to"	490	https://en.openrussian.org/ru/%D1%83%D0%BC%D0%B5%D1%82%D1%8C
+да́нный	"given"	491	https://en.openrussian.org/ru/%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9
+необходи́мый	"necessary, unavoidable"	492	https://en.openrussian.org/ru/%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D0%B9
+глава́	"head, chapter, cupola"	493	https://en.openrussian.org/ru/%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0
+па́ртия	"party, batch (e.g. of drugs), game"	494	https://en.openrussian.org/ru/%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F
+край	"edge (border, end), region, land"	495	https://en.openrussian.org/ru/%D0%BA%D1%80%D0%B0%D0%B9
+вперёд	"forward, to the front"	496	https://en.openrussian.org/ru/%D0%B2%D0%BF%D0%B5%D1%80%D1%91%D0%B4
+река́	"river"	497	https://en.openrussian.org/ru/%D1%80%D0%B5%D0%BA%D0%B0
+судьба́	"fate"	498	https://en.openrussian.org/ru/%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D0%B0
+ро́та	"company (military)"	499	https://en.openrussian.org/ru/%D1%80%D0%BE%D1%82%D0%B0
+до́брый	"good, kind"	500	https://en.openrussian.org/ru/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9

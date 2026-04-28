@@ -1,0 +1,3 @@
+Orte (noun, plural) ['places', 'locations', 'sites', 'spots', 'loci'] ['towns', 'venues', 'positions', 'spaces', 'localities']
+Ort (noun, masculine) ['place', 'location', 'spot', 'site', 'venue'] ['position', 'locality', 'scene', 'municipality', 'lieu'] ['“Orte”  is plural of', ' ( plural:  Örter   [sl.] )']
+orten (verb) ['locate'] ['localize  sb./sth.', 'spot  sb./sth.'] ['“er/sie/es orte”  could be 3rd person present subjunctive']
