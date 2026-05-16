@@ -1,2 +1,3 @@
-# anki-generator
-My Anki Flashcard Generator (old project)
+# anki-german
+
+Anki Flashcard Generator for German Language
