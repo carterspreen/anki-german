@@ -12,4 +12,6 @@ It turned out to be a very network-intensive problem to figure out which nouns w
 
 This project turned out to be a huge time sink, but it taught me a lot about web scraping.
 
-Looking back on it now, I realize that I was so determined to learn web scraping, I never thought to try any other solutions. Eventually, I plan to revisit this project.
+Looking back on it now, I realize that my determination to learn web scraping caused me to overlook other possibilities.
+
+I am interested in revisiting this project using the open source dataset from dict.cc in tandem with the Leipzig Corpora Collection.
