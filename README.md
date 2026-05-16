@@ -12,4 +12,4 @@ But I did have to request, cache, and parse HTML to create the flashcards themse
 
 I can't remember exactly why I used Linguee for this, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. 
 
-This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping. Eventually I found dict.cc, which is open source. When I get some time, I may revisit this project using their dataset.
+This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping.
