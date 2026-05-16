@@ -1,8 +1,8 @@
 # anki-german
 
-Anki flashcard generator for German vocabulary.
+Generates flashcards for studying German vocabulary.
 
-I put a lot of time into this back in 2022, when I was taking German classes. 
+I put a lot of time into this back in 2022, when I was taking German and Russian classes. 
 
 Unfortunately there was no good open-source German dictionary to source data from, so I came up with this nightmare spaghetti:
 
