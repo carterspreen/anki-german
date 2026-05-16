@@ -12,6 +12,4 @@ It turned out to be a very network-intensive problem to figure out which nouns w
 
 This project turned out to be a huge time sink, but it taught me a lot about web scraping.
 
-Looking back on it now, I think the biggest problem was really just that I was determined to learn web scraping, so I never thought to try any other solutions.
-
-Eventually, I plan to revisit this project.
+Looking back on it now, I think the biggest problem was that I was determined to learn web scraping, so I never thought to try any other solutions. Eventually, I plan to revisit this project.
