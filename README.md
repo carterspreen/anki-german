@@ -1,6 +1,6 @@
 # anki-german
 
-I put a lot of time into this back in 2022, when I was taking German and Russian classes simultaneously. 
+I put a lot of time into this back in 2022, when I was taking German and Russian classes.
 
 At the time, there was no frequency-ranked list of German words available on the internet. The closest thing to it was a corpus released by Leipzig University. They had ranked the 1-million most frequently used words on websites hosted in Germany, but the problem was that a huge portion of these words weren't actually German. So I came up with this nightmare spaghetti:
 
