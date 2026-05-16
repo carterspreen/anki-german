@@ -8,6 +8,6 @@ I wrote a Python script to search each word on the Langenscheidt web dictionary,
 
 But I did have to request, cache, and parse HTML to create the flashcards themselves. I wrote another script to search the Linguee web dictionary for the words I had determined to be German, and then parse the translation, part of speech, etc. from the response. 
 
-I can't remember exactly why I used Linguee in particular, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. 
+It turned out to be a very network-intensive problem to figure out which nouns were unique plural forms, and what their singular form was. It was impossible to get this information from a single HTTP request from any of the websites I tried. I used Linguee in particular because their content formatting made it possible to reliably solve this problem, but it required a massive number of HTTP requests.
 
 This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping.
