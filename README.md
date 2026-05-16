@@ -10,4 +10,4 @@ But I did have to request, cache, and parse HTML to create the flashcards themse
 
 It turned out to be a very network-intensive problem to figure out which nouns were unique plural forms, and what their singular form was. It was impossible to get this information in a single HTTP request from any of the websites I tried. I used Linguee in particular because their content formatting made it possible to reliably solve this problem, but it required a huge number of HTTP requests.
 
-This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping.
+This project turned out to be a huge time sink, so I stopped working on it, but it taught me a lot about web scraping.
