@@ -1,3 +1,21 @@
 # anki-german
 
-Anki Flashcard Generator for German Language
+Anki flashcard generator for German vocabulary.
+
+I put a lot of time into this back in 2022, when I was taking German classes.
+
+Unfortunately there was no good open-source German dictionary to source data from, so I came up with this nightmare solution:
+
+I got a free corpus from Leipzig University, that had ranked the 1-million most frequently used words on the German web. However, it contained a lot of non-German words.
+
+So I wrote a Python script to search each word on the Langenscheidt web dictionary, to figure out if it was actually German or not.
+
+Then, I made a list of all the German words, and wrote another script to search them on the Linguee web dictionary.
+
+I can't remember exactly why I had to do that, but I remember there was a very serious reason why I had to do this.
+
+And it had something to do with figuring out which words were special plural forms, and what their base form was.
+
+This project turned out to be a huge time sink, so I gave up on it. 
+
+However, it taught me a lot about web scraping.
