@@ -10,6 +10,6 @@ I wrote a Python script to search each word on the Langenscheidt web dictionary,
 
 But I did have to request, cache, and parse HTML to create the flashcards themselves. I wrote another script to search the Linguee web dictionary for the words I had determined to be German, and then parse the translation, part of speech, etc. from the response. 
 
-I can't remember exactly why I used Linguee for this, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping. 
+I can't remember exactly why I used Linguee for this, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. 
 
-Eventually I found dict.cc, which is open source. When I get some time, I may revisit this project using their dataset.
+This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping. Eventually I found dict.cc, which is open source. When I get some time, I may revisit this project using their dataset.
