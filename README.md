@@ -8,8 +8,10 @@ At the time, there was no frequency-ranked list of German words available on the
 
 I wrote a Python script to search each word on the Langenscheidt web dictionary, to figure out if it was actually German or not. I used Langenscheidt because that particular site behaved such that I could determine whether the word was German just by observing whether I got an http redirect to the "german-english" dictionary rather than some other one. 
 
-That sped up the process a lot, because I didn't even have to download the HTML. 
+That sped up the process a lot, because I didn't even have to download the HTML for this step.
 
-Then, I made a list of all the German words, and wrote another script to search them on the Linguee web dictionary, and then parse the translation, part of speech, etc. from the HTML. I can't remember exactly why I used Linguee for this, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping. 
+Then, I made a list of all the German words, and wrote another script to search them on the Linguee web dictionary, and then parse the translation, part of speech, etc. from the HTML. 
+
+I can't remember exactly why I used Linguee for this, but it had something to do with figuring out which nouns were unique plural forms, and what their singular form was. This project turned out to be a huge time sink, so I gave up on it. However, it taught me a lot about web scraping. 
 
 Eventually I found dict.cc, which is open source. When I get some time, I may revisit this project using their dataset.
