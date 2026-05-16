@@ -6,7 +6,7 @@ I put a lot of time into this back in 2022, when I was taking German and Russian
 
 At the time, there was no frequency-ranked list of German words available on the internet. The closest thing to it was a corpus released by Leipzig University. They had ranked the 1-million most frequently used words on websites hosted in Germany, but the problem was that a huge portion of these words weren't actually German. So I came up with this nightmare spaghetti:
 
-I wrote a Python script to search each word on the Langenscheidt web dictionary, to figure out if it was actually German or not. I used Langenscheidt because that particular site behaved such that I could determine whether the word was German just by observing the http redirect. That sped up the process a lot, because I didn't even have to download the HTML for this step.
+I wrote a Python script to search each word on the Langenscheidt web dictionary, to figure out if it was actually German or not. I used Langenscheidt because that particular site behaved such that I could determine whether the word was German just by observing the HTTP redirect. That sped up the process a lot, because I didn't even have to download the HTML for this step.
 
 But I did have to request, cache, and parse HTML to create the flashcards themselves. I wrote another script to search the Linguee web dictionary for the words I had determined to be German, and then parse the translation, part of speech, etc. from the response. 
 
